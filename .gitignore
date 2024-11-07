@@ -1,0 +1,4 @@
+tf_keras/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
