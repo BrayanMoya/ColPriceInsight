@@ -1,0 +1,323 @@
+Tipo,Precio,Área,Habitaciones,Baños,Estrato,Ubicación
+Casa,250000000,52,3,2,3,Ciudad Cordoba
+Casa,474000000,280,6,4,5,Salomia
+Casa,249000000,120,4,2,3,Belisario Caicedo
+Casa,950000000,290,5,5,5,San Fernando Viejo
+Casa,850000000,320,6,7,5,La Hacienda
+Casa,550000000,270,5,5,3,Ciudad Cordoba
+Casa,545000000,400,5,4,5,Nueva Tequendama
+Casa,2500000000,570,3,5,6,Santa Teresita
+Casa,1100000000,225,4,2,5,San Fernando Viejo
+Casa,339000000,144,3,3,3,Torres de Comfandi
+Casa,1300000000,253,4,4,6,Caney
+Casa,3200000000,650,4,5,6,Pance
+Casa,2500000000,400,6,7,5,Ciudad Capri
+Casa,750000000,1180,6,5,5,Pance
+Casa,275000000,270,9,7,1,Alirio Mora Beltrán
+Casa,1350000000,360,3,4,6,Caney
+Casa,3000000000,630,4,5,6,Pance
+Casa,530000000,510,9,4,3,Junín
+Casa,720000000,160,3,5,6,Ciudad Jardin
+Casa,345000000,91,3,3,3,Ciudad Cordoba
+Casa,178000000,150,5,2,3,San Fernando Viejo
+Casa,900000000,600,7,7,4,San Fernando Viejo
+Casa,800000000,280,4,3,5,Prados del Limonar
+Casa,2250000000,850,4,9,5,La Hacienda
+Casa,1050000000,350,4,4,6,Caney
+Casa,570000000,161,3,7,4,San Vicente
+Casa,2200000000,460,3,3,6,Ciudad Capri
+Casa,800000000,734,7,4,4,La Campiña
+Casa,365000000,82,3,3,4,Torres de Comfandi
+Casa,495000000,192,4,2,5,Mayapan
+Casa,1000000000,320,5,4,5,La Gran Colombia
+Casa,610000000,217,4,4,5,Valle Del Lili
+Casa,1150000000,680,4,4,5,La Flora
+Casa,500000000,180,4,3,5,Colinas del Sur
+Casa,1500000000,281,6,4,3,La Libertad
+Casa,1800000000,414,5,6,3,La Libertad
+Casa,800000000,320,6,5,5,La Flora
+Casa,850000000,290,3,5,5,Nueva Tequendama
+Casa,850000000,360,5,5,5,El Gran Limonar
+Casa,1500000000,850,5,7,5,Miraflores
+Casa,1100000000,400,4,5,6,Pance
+Casa,700000000,260,4,5,5,Unidad Residencial Santiago de Cali
+Casa,720000000,157,5,5,6,Ciudad Capri
+Casa,900000000,350,6,5,6,El Ingenio
+Casa,915000000,3254,8,6,5,La Elvira
+Casa,415000000,182,4,4,5,Vipasa
+Casa,1000000000,365,4,4,6,El Ingenio
+Casa,2350000000,888,8,8,5,Ciudad Capri
+Casa,1250000000,243,3,6,6,San Fernando Viejo
+Casa,2000000000,657,4,5,6,San Fernando Viejo
+Casa,3550000000,566,4,5,6,Aguacatal
+Casa,6000000000,485,3,4,6,San Fernando Viejo
+Casa,2200000000,388,4,3,5,San Fernando Viejo
+Casa,1800000000,421,3,6,5,San Fernando Viejo
+Casa,5600000000,720,4,6,5,San Fernando Viejo
+Casa,1500000000,200,3,4,5,San Fernando Viejo
+Casa,270000000,210,2,3,3,Ciudad Cordoba
+Casa,470000000,130,4,2,5,Panamericano
+Casa,1450000000,332,3,5,6,Ciudad Jardin
+Casa,590000000,210,3,2,5,San Fernando Viejo
+Casa,999000000,250,4,5,5,Pance
+Casa,428600000,90,3,3,4,Ciudad 2000
+Casa,833000000,400,4,5,5,El Ingenio
+Casa,210000000,80,3,1,5,Villa Del Prado
+Casa,600000000,360,6,4,4,Ciudad 2000
+Casa,250000000,140,4,2,5,San Carlos
+Casa,149900000,120,3,2,5,El Vallado
+Casa,335000000,91,2,2,3,Ciudad Cordoba
+Casa,190000000,97,3,2,5,Los Guaduales
+Casa,580000000,140,3,2,5,San Fernando Viejo
+Casa,2000000000,446,3,4,6,Caney
+Casa,450000000,159,2,4,2,Nueva Floresta
+Casa,450000000,180,4,5,5,El Poblado I
+Casa,860000000,348,5,7,4,Valle Del Lili
+Casa,250000000,84,3,2,3,La Base
+Casa,270000000,116,4,2,3,Ciudad Cordoba
+Casa,1800000000,430,5,6,6,Ciudad Jardin
+Casa,249000000,145,6,3,3,Ciudadela Floralia
+Casa,550000000,380,6,4,5,Colseguros Andes
+Casa,280000000,85,4,3,4,Cañaveral
+Casa,750000000,350,4,5,5,Prados del Norte
+Casa,380000000,180,8,4,3,Nueva Floresta
+Casa,260000000,132,4,3,3,El Guabal
+Casa,700000000,200,5,4,4,Santa Isabel
+Casa,1400000000,430,4,5,5,San Fernando Viejo
+Casa,900000000,450,8,8,5,San Marino
+Casa,1150000000,250,4,5,5,El Ingenio
+Casa,560000000,250,4,4,5,La Gran Colombia
+Casa,750000000,276,5,4,5,Santa Rita
+Casa,280000000,152,8,2,5,Alfonso Lopez
+Casa,850000000,308,6,5,5,Granada
+Casa,1500000000,412,5,5,5,Pance
+Casa,1000000000,150,4,2,5,San Antonio
+Casa,1900000000,544,5,6,5,Pance
+Casa,1150000000,430,4,6,5,El Bosque
+Casa,1000000000,215,6,2,5,San Antonio
+Casa,1350000000,345,5,5,6,San Marino
+Casa,480000000,420,9,6,3,Ciudad Cordoba
+Casa,2000000000,500,5,5,6,Caney
+Casa,630000000,240,5,5,5,Prados del Norte
+Casa,550000000,90,4,4,5,Caney
+Casa,875000000,250,4,4,5,Granada
+Casa,2500000000,800,5,5,5,Valle Grande
+Casa,550000000,247,3,3,5,La Cascada
+Casa,4300000000,800,5,7,5,Pance
+Casa,480000000,158,4,3,5,Valle Del Lili
+Casa,5900000000,1660,5,10,5,Ciudad Jardín
+Casa,4500000000,645,7,9,5,Pance
+Casa,1300000000,429,6,12,5,Santa Elena
+Casa,2000000000,600,9,9,5,Bochalema
+Casa,1700000000,338,13,10,5,La Flora
+Casa,360000000,149,6,2,5,Bretaña
+Casa,500000000,188,3,3,5,Salomia
+Casa,2400000000,450,5,5,6,Caney
+Casa,330000000,160,3,2,5,Ciudadela Comfandi
+Casa,1250000000,245,4,3,5,Dapa
+Casa,750000000,220,3,3,4,El Limonar
+Casa,1450000000,341,7,6,5,Pance
+Casa,490000000,500,9,4,5,Ciudadela Floralia
+Casa,500000000,255,6,4,5,La Gran Colombia
+Casa,2900000000,808,17,6,5,La Candelaria
+Casa,965000000,367,5,5,6,Ciudad Jardin
+Casa,448000000,142,3,3,5,Valle Del Lili
+Casa,450000000,91,3,3,5,Valle Del Lili
+Casa,2300000000,457,5,5,6,Ciudad Jardin
+Casa,345000000,122,4,2,4,3 de Julio
+Casa,1700000000,300,4,5,5,La Gran Colombia
+Casa,3000000000,960,13,12,5,La Gran Colombia
+Casa,1900000000,260,3,3,3,San Fernando Viejo
+Casa,680000000,155,3,3,3,Ciudad Cordoba
+Casa,570000000,135,4,4,5,Las Vegas
+Casa,182000000,195,8,3,5,Petecuy
+Casa,1850000000,600,5,6,5,Caney
+Casa,1500000000,150,6,5,5,El Ingenio
+Casa,850000000,137,15,15,5,Alfonso Lopez
+Casa,2200000000,480,5,5,5,Pance
+Casa,1400000000,250,6,4,4,La Alborada
+Casa,650000000,480,4,3,5,Santa Elena
+Casa,800000000,576,8,7,5,San Vicente
+Casa,669999900,367,6,3,3,San Fernando Viejo
+Casa,1230000000,760,4,3,6,Ciudad Jardin
+Casa,550000000,315,4,4,5,Villa Colombia
+Casa,2500000000,150,4,2,5,Caney
+Casa,390000000,220,3,2,5,La Merced
+Casa,275000000,76,3,3,5,Villa del Sol
+Casa,430000000,180,5,1,5,Paseo de Los Almendros
+Casa,280000000,123,5,1,5,Villa Colombia
+Casa,350000000,170,6,2,5,Santa Mónica Popular
+Casa,830000000,370,4,4,5,Versalles
+Casa,1650000000,280,4,5,5,Caney
+Casa,730000000,256,4,4,5,Prados del Norte
+Casa,750000000,340,4,5,5,Nueva Tequendama
+Casa,800000000,320,14,5,5,San Nicolas
+Casa,540000000,256,4,2,5,La Gran Colombia
+Casa,4800000000,640,5,7,5,Pance
+Casa,480000000,100,3,3,3,Ciudad Cordoba
+Casa,320000000,158,4,1,5,La Gran Colombia
+Casa,119000000,300,3,3,5,Manuela Beltrán
+Casa,280000000,125,4,2,5,Torres de Comfandi
+Casa,470000000,400,7,5,5,La Gran Colombia
+Casa,780000000,150,4,3,5,Ciudadela Pasoancho
+Casa,279000000,153,4,1,5,Sindical
+Casa,389900000,230,9,6,5,San Luis
+Casa,1850000000,822,6,6,5,Pance
+Casa,250000000,112,4,2,3,Calipso
+Casa,259900000,100,3,3,5,Los Guaduales
+Casa,2200000000,500,3,2,6,Caney
+Casa,345000000,225,9,3,3,Ciudad Cordoba
+Casa,370000000,149,5,2,5,Cristobal Colon
+Casa,494000000,124,4,4,6,Ciudad 2000
+Casa,1390000000,600,4,5,5,Pance
+Casa,1400000000,600,8,9,4,Valle Del Lili
+Casa,175000000,80,3,2,5,Los Guaduales
+Casa,240000000,100,3,1,3,Flora Industrial
+Casa,1600000000,497,20,6,5,San Antonio
+Casa,430000000,300,6,4,5,Nueva Floresta
+Casa,430000000,91,3,3,5,Ciudad Capri
+Casa,1538000000,497,20,6,5,San Antonio
+Casa,315000000,144,5,2,5,Villas De Veracruz
+Casa,185000000,165,5,1,5,San Fernando Viejo
+Casa,239900000,178,3,1,5,Andres Sanin
+Casa,980000000,250,5,4,3,El Ingenio
+Casa,210000000,144,3,2,5,Morichal De Comfandi
+Casa,430000000,270,4,6,5,Valle Del Lili
+Casa,1250000000,244,5,6,6,Ciudad Capri
+Casa,1400000000,417,5,6,5,Granada
+Casa,400000000,170,6,3,5,Belalcazar
+Casa,470000000,270,6,3,4,Villas De Guadalupe
+Casa,350000000,96,3,3,5,Valle De Lili
+Casa,320000000,140,8,4,5,Union De Vivienda Popular
+Casa,250000000,150,6,3,5,Ciudadela del rio
+Casa,945000000,305,10,2,5,San Antonio
+Casa,890000000,350,8,9,5,San Marino
+Casa,135000000,60,2,2,5,Manzanares
+Casa,210000000,60,3,2,5,Ciudad del campo
+Casa,195000000,60,4,2,5,Ciudad del campo
+Casa,1300000000,395,6,7,4,Prados del Limonar
+Casa,2500000000,600,7,3,5,Ciudad Capri
+Casa,440000000,350,5,5,3,Villa del Sur
+Casa,775000000,431,4,4,4,Prados de Oriente
+Casa,1100000000,400,4,3,4,La Flora
+Casa,1020000000,200,4,2,5,La Libertad
+Casa,195000000,90,3,2,3,Santa Barbara
+Casa,390000000,72,7,3,5,Valle Del Lili
+Casa,540000000,140,4,4,6,Ciudad Jardin
+Casa,3900000000,3743,7,6,6,Pance
+Casa,230000000,236,3,3,5,Tierra Blanca
+Casa,450000000,300,7,4,3,La Base
+Casa,545000000,560,16,8,3,Los Pinos
+Casa,450000000,230,7,3,2,La Base
+Casa,320000000,110,5,2,5,Quintas De Salomia
+Casa,455000000,162,3,4,3,Ciudad Cordoba
+Casa,390000000,230,8,3,3,Villa Colombia
+Casa,425000000,500,5,2,3,Atanasio Girardot
+Casa,3700000000,824,5,6,5,Arboledas
+Casa,350000000,250,4,4,3,Alameda
+Casa,475000000,398,11,5,5,San Vicente
+Casa,280000000,180,2,2,5,Valle De Lili
+Casa,180000000,150,4,2,5,Decepaz
+Casa,250000000,280,8,5,1,Los Naranjos I
+Casa,1260000000,320,4,3,5,Ciudad Capri
+Casa,780000000,260,3,4,5,Santa Rita
+Casa,830000000,237,5,4,5,San Fernando
+Casa,248000000,105,6,2,1,El Poblado I
+Casa,369900000,300,9,3,5,Manuela Beltrán
+Casa,890000000,525,8,9,5,Las Acacias
+Casa,258000000,112,4,2,3,Calipso
+Casa,430000000,300,12,4,5,La Base
+Casa,580000000,400,7,5,4,Vipasa
+Casa,207000000,140,3,1,5,Calipso
+Casa,193000000,120,4,3,1,Ciudadela del Río
+Casa,230000000,90,3,2,3,Prados del Norte
+Casa,480000000,300,10,7,3,La Libertad
+Casa,550000000,250,4,3,4,Vipasa
+Casa,1800000000,500,5,4,5,El Ingenio
+Casa,190000000,115,3,2,3,Villa del Lago
+Casa,365000000,180,6,3,5,La Base
+Casa,600000000,290,5,5,4,El Bosque
+Casa,180000000,270,8,4,5,Los Naranjos I
+Casa,105000000,58,3,1,2,Villa del Lago
+Casa,107000000,78,3,1,1,Puerta del Sol
+Casa,580000000,384,12,6,3,Los Andes
+Casa,600000000,620,9,4,3,Atanasio Girardot
+Casa,570000000,180,4,4,5,San Fernando Viejo
+Casa,972000000,314,9,4,5,San Antonio
+Casa,588000000,190,7,5,5,San Antonio
+Casa,200000000,320,9,2,2,Marroquin
+Casa,300000000,154,6,2,3,La Base
+Casa,4495000000,536,6,7,5,Caney
+Casa,750000000,600,10,7,5,Villa Colombia
+Casa,1500000000,580,8,7,5,El Ingenio
+Casa,215000000,93,4,2,3,Junín
+Casa,450000000,225,7,4,5,El Troncal
+Casa,390000000,450,8,5,5,Ciudadela Comfandi
+Casa,620000000,270,6,5,5,San Fernando Viejo
+Casa,530000000,270,5,4,5,La Cascada
+Casa,850000000,370,5,5,5,Ciudad Capri
+Casa,910000000,280,5,5,5,Santa Isabel
+Casa,4500000000,700,7,9,5,Ciudad Jardin
+Casa,1300000000,300,5,4,5,San Fernando Viejo
+Casa,1900000000,290,5,7,5,Caney
+Casa,650000000,400,5,5,5,Las Vegas
+Casa,600000000,200,3,3,5,Pampa Linda
+Casa,750000000,246,4,5,5,Ciudad Capri
+Casa,6000000000,699,4,6,5,Caney
+Casa,960000000,330,5,4,5,San Fernando Viejo
+Casa,750000000,215,4,5,5,Ciudad Capri
+Casa,1182000000,816,4,4,3,Colseguros Andes
+Casa,350000000,251,4,4,5,Pance
+Casa,550000000,360,5,4,5,El Cedro
+Casa,450000000,148,8,8,5,El Rodeo
+Casa,460000000,130,3,3,4,El Refugio
+Casa,51000000,20,1,1,6,Montebello
+Casa,345000000,144,3,3,3,Torres De Comfandi
+Casa,550000000,270,4,4,5,Caney
+Casa,589000000,310,5,3,5,Prados del Norte
+Casa,145000000,100,4,2,2,Valle Grande
+Casa,420000000,317,9,3,1,Alfonso Bonilla Aragón
+Casa,449000000,250,4,3,4,La Gran Colombia
+Casa,550000000,392,9,6,4,Junín
+Casa,520000000,180,4,3,5,Bella Suiza
+Casa,379000000,147,3,2,4,Olímpico
+Casa,500000000,131,4,3,5,Valle De Lili
+Casa,370000000,127,5,4,5,Caney
+Casa,4900000,340,5,4,3,San Antonio
+Casa,245000000,90,5,3,3,Primavera
+Casa,2100000,110,3,2,5,Pampalinda
+Casa,495000000,230,4,3,5,Polvorines
+Casa,599000000,217,11,5,5,Santa Elena
+Casa,970000000,575,5,10,5,El Bosque
+Casa,370000000,61,3,3,3,Villa Del Prado
+Casa,125000000,76,3,1,3,Villa del Lago
+Casa,6000000000,800,4,7,5,Ciudad Jardín
+Casa,640000000,185,4,3,6,Ciudad Jardin
+Casa,350000000,128,3,3,5,Valle De Lili
+Casa,9000000,246,3,4,5,Santa Rita
+Casa,1800000000,316,3,5,5,Caney
+Casa,430000000,90,3,3,5,Villas De Guadalupe
+Casa,370000000,110,5,4,5,La Gran Colombia
+Casa,770000000,142,4,3,5,Bella Suiza
+Casa,570000000,332,7,2,5,San Vicente
+Casa,1399999900,350,4,4,5,La Flora
+Casa,1250000000,300,4,6,5,Rozo
+Casa,520000000,107,3,3,4,El Morichal
+Casa,860000000,336,4,5,5,San Fernando Viejo
+Casa,280000000,83,7,2,2,Alfonso Barberena
+Casa,595000000,200,5,5,5,Junín
+Casa,1280000000,233,5,5,6,Arboledas
+Casa,2750000000,647,5,6,5,Caney
+Casa,470000000,180,4,4,5,El Limonar
+Casa,1100000000,570,5,5,6,Pance
+Casa,1300000000,246,4,4,5,Santa Rita
+Casa,560000000,266,8,4,4,Ciudad 2000
+Casa,850000000,240,4,5,5,Bellavista
+Casa,320000000,100,4,3,4,El Limonar
+Casa,545000000,240,4,3,5,Panamericano
+Casa,660000000,208,3,3,5,Mayapan
+Casa,420000000,120,3,3,5,Valle Del Lili
+Casa,500000000,180,4,4,5,Valle De Lili
+Casa,1100000000,345,3,3,5,Caney
+Casa,400000000,83,3,2,4,Valle Del Lili
+Casa,180000000,80,2,2,5,Valle Del Lili
