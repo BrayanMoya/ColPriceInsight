@@ -1,27 +1,27 @@
 Tipo,Precio,Área,Habitaciones,Baños,Estrato,Ubicación
 Apartamento,950000000,152,2,2,6,Santa Teresita
-Apartamento,850000000,130,3,3,6,San Fernando Viejo
+Apartamento,850000000,130,3,3,5,San Fernando Viejo
 Apartamento,205000000,60,3,2,4,Bosques del Limonar
-Apartamento,350000000,112,4,2,4,Santa Rita
+Apartamento,350000000,112,4,2,6,Santa Rita
 Apartamento,395000000,160,4,4,4,Ciudad Los Alamos
-Apartamento,410000000,109,4,3,4,La Hacienda
-Apartamento,420000000,94,3,2,4,La Hacienda
+Apartamento,410000000,109,4,3,5,La Hacienda
+Apartamento,420000000,94,3,2,5,La Hacienda
 Apartamento,254000000,65,3,2,4,Champagñat
 Apartamento,225000000,53,2,2,4,Ciudad 2000
 Apartamento,219000000,62,3,2,5,Urbanización La Flora
 Apartamento,750000000,91,3,2,4,Urbanización Militar
 Apartamento,530000000,142,4,4,4,San Fernando Nuevo
-Apartamento,670000000,110,3,2,4,Cuarto de Legua - Guadalupe
+Apartamento,670000000,110,3,2,5,Cuarto de Legua - Guadalupe
 Apartamento,310000000,88,3,2,4,Urbanización Nueva Granada
 Apartamento,700000000,144,3,4,6,Tejares - Cristales
 Apartamento,315000000,75,3,2,5,Camino Real - Joaquín Borrero Sinisterra
 Apartamento,400000000,100,3,2,5,Urbanización San Joaquin
 Apartamento,700000000,163,3,3,6,Menga
 Apartamento,180000000,80,3,2,4,Ciudad Los Alamos
-Apartamento,290000000,70,2,2,4,Cuarto de Legua - Guadalupe
+Apartamento,290000000,70,2,2,5,Cuarto de Legua - Guadalupe
 Apartamento,230000000,62,3,2,4,El Refugio
 Apartamento,205000000,33,1,1,5,La Flora
-Apartamento,225000000,56,2,2,4,San Fernando Viejo
+Apartamento,225000000,56,2,2,5,Los Cambulos
 Apartamento,170000000,65,3,1,5,La Cascada
 Apartamento,760000000,151,3,2,4,El Cedro
 Apartamento,185000000,62,3,2,5,Senderos de la Flora
@@ -33,7 +33,7 @@ Apartamento,210000000,60,2,2,5,Urbanización San Joaquin
 Apartamento,570000000,165,3,3,6,Santa Teresita
 Apartamento,750000000,125,3,4,4,Chipichape
 Apartamento,500000000,89,2,3,4,El Cedro
-Apartamento,485000000,107,3,3,4,Ciudad Capri
+Apartamento,485000000,107,3,3,5,Ciudad Capri
 Apartamento,250000000,63,3,2,4,Pasoancho
 Apartamento,395000000,88,3,3,4,Lili
 Apartamento,215000000,80,3,2,4,Colseguros Andes
@@ -47,7 +47,7 @@ Apartamento,172000000,48,2,1,4,Ciudad Los Alamos
 Apartamento,155000000,55,2,2,5,San Fernando Viejo
 Apartamento,200500000,60,3,2,4,Ciudad Los Alamos
 Apartamento,760000000,90,3,5,4,Caney
-Apartamento,300000000,73,3,2,4,El Gran Limonar
+Apartamento,300000000,73,3,2,5,El Gran Limonar
 Apartamento,368000000,86,3,3,4,El Cedro
 Apartamento,255000000,100,4,3,5,Prados del Norte
 Apartamento,260000000,69,2,2,4,Barrio Departamental
@@ -63,8 +63,8 @@ Apartamento,306832660,71,3,2,5,El Ingenio
 Apartamento,154500000,50,2,2,5,El Gran Limonar
 Apartamento,225000000,56,2,2,4,Urbanización Nueva Granada
 Apartamento,218000000,61,3,2,4,San Vicente
-Apartamento,201751135,60,3,2,4,La Cascada
-Apartamento,201751135,60,3,2,4,La Cascada
+Apartamento,356751135,80,3,2,5,La Cascada
+Apartamento,310751135,75,3,2,5,La Cascada
 Apartamento,265500000,65,3,2,4,San Vicente
 Apartamento,164220000,49,2,2,6,Santa Teresita
 Apartamento,323098592,67,3,2,4,Chipichape
@@ -80,22 +80,22 @@ Apartamento,238000000,63,3,2,4,Champagñat
 Apartamento,231751540,57,2,2,5,Ciudadela Pasoancho
 Apartamento,231000000,61,3,2,4,Vipasa
 Apartamento,218000000,61,3,2,4,La Campiña
-Apartamento,194000000,58,3,2,4,San Fernando Viejo
+Apartamento,194000000,58,3,2,5,Los Cambulos
 Apartamento,148000000,55,3,2,4,Santa Isabel
 Apartamento,257000000,65,3,2,4,Colseguros Andes
 Apartamento,219000000,56,2,2,4,Ciudad 2000
-Apartamento,167000000,48,2,2,4,Ciudad Capri
+Apartamento,267000000,67,2,2,5,Ciudad Capri
 Apartamento,630000000,121,3,3,5,La Flora
 Apartamento,570000000,97,2,2,5,La Flora
 Apartamento,430000000,107,3,3,4,Colseguros Andes
-Apartamento,540000000,102,3,3,5,Menga
+Apartamento,540000000,102,3,3,6,Menga
 Apartamento,360000000,84,3,2,4,Granada
 Apartamento,405000000,84,3,2,5,Nueva Tequendama
-Apartamento,650000000,171,4,4,4,Normandía
+Apartamento,650000000,171,4,4,6,Normandía
 Apartamento,675000000,104,3,2,5,La Flora
 Apartamento,510000000,124,4,3,5,Los Cambulos
 Apartamento,210000000,62,2,2,4,La Campiña
-Apartamento,365000000,98,3,3,4,Cuarto de Legua - Guadalupe
+Apartamento,365000000,98,3,3,5,Cuarto de Legua - Guadalupe
 Apartamento,230000000,74,3,2,4,Primero de Mayo
 Apartamento,385000000,86,2,3,4,Colseguros Andes
 Apartamento,720000000,121,3,3,6,Santa Teresita
@@ -105,46 +105,46 @@ Apartamento,255000000,62,3,2,4,Unidad Residencial El Coliseo
 Apartamento,207900000,60,3,2,4,Pasoancho
 Apartamento,400000000,90,2,3,5,La Cascada
 Apartamento,233000000,61,3,2,4,Barrio Eucarístico
-Apartamento,400000000,175,3,2,4,San Fernando Viejo
+Apartamento,400000000,175,3,2,5,Los Cambulos
 Apartamento,326532568,79,2,2,4,Bosques del Limonar
 Apartamento,250000000,91,3,2,5,El Lido
 Apartamento,326532568,79,2,2,4,El Cedro
 Apartamento,120000000,74,3,2,4,El Refugio
 Apartamento,291000000,67,2,2,5,La Flora
-Apartamento,158000000,60,3,1,4,San Fernando Viejo
+Apartamento,158000000,60,3,1,5,Los Cambulos
 Apartamento,218000000,61,3,2,4,Olímpico
 Apartamento,310000000,98,3,3,5,Cuarto de Legua - Guadalupe
 Apartamento,370000000,86,3,2,5,La Hacienda
 Apartamento,194000000,60,2,2,4,La Campiña
-Apartamento,295000000,66,3,2,4,San Fernando Viejo
+Apartamento,295000000,66,3,2,5,Los Cambulos
 Apartamento,285000000,86,2,2,5,Las Quintas de Don Simón
 Apartamento,580000000,83,2,2,4,Chipichape
-Apartamento,480000000,108,3,2,4,El Ingenio
-Apartamento,580000000,133,4,3,5,Chipichape
-Apartamento,630000000,118,3,3,6,Caney
+Apartamento,480000000,108,3,2,5,El Ingenio
+Apartamento,480000000,133,4,3,4,Chipichape
+Apartamento,430000000,118,3,3,4,Caney
 Apartamento,460000000,66,2,2,5,Versalles
 Apartamento,560000000,130,4,3,5,Santa Mónica
 Apartamento,470000000,86,3,3,4,San Fernando Nuevo
 Apartamento,340000000,72,3,2,5,Prados del Norte
-Apartamento,220000000,62,2,2,4,Prados del Norte
-Apartamento,220000000,62,2,2,4,Prados del Norte
+Apartamento,380000000,82,4,2,5,Prados del Norte
+Apartamento,300000000,72,3,2,5,Prados del Norte
 Apartamento,415000000,82,3,2,5,Ciudad Capri
 Apartamento,529000000,108,3,3,6,Menga
-Apartamento,450000000,165,4,4,4,Cuarto de Legua - Guadalupe
+Apartamento,450000000,165,4,4,5,Cuarto de Legua - Guadalupe
 Apartamento,550000000,97,2,2,5,La Flora
 Apartamento,510000000,89,2,2,5,La Flora
 Apartamento,420000000,99,3,2,5,El Ingenio
 Apartamento,210000000,47,1,2,5,Cuarto de Legua - Guadalupe
-Apartamento,550000000,150,4,3,4,San Fernando Viejo
+Apartamento,550000000,150,4,3,5,Los Cambulos
 Apartamento,169000000,58,3,2,4,Urbanización La Merced
 Apartamento,320000000,92,3,2,5,Cuarto de Legua - Guadalupe
 Apartamento,490000000,62,1,2,6,Cañaveral
-Apartamento,130000000,47,2,1,4,Ciudad Capri
+Apartamento,310000000,77,2,1,5,Ciudad Capri
 Apartamento,970000000,51,4,4,6,Santa Teresita
 Apartamento,530000000,116,3,3,5,Versalles
 Apartamento,685000000,155,3,4,5,La Flora
-Apartamento,849500000,171,3,3,6,San Fernando Viejo
-Apartamento,725000000,119,2,2,4,Arboledas
+Apartamento,849500000,171,3,3,5,San Fernando Viejo
+Apartamento,725000000,119,2,2,6,Arboledas
 Apartamento,325000000,75,3,2,4,Villa del Sol
 Apartamento,990000000,130,4,5,4,Barrio Eucarístico
 Apartamento,660000000,119,4,3,4,Chipichape
@@ -153,9 +153,9 @@ Apartamento,380000000,84,3,2,5,Centenario
 Apartamento,252000000,63,3,2,4,Barrio Departamental
 Apartamento,350000000,140,3,3,5,Juanambú
 Apartamento,580000000,90,3,2,4,Los Cambulos
-Apartamento,615525300,107,3,3,6,San Fernando Viejo
+Apartamento,615525300,107,3,3,5,San Fernando Viejo
 Apartamento,148000000,54,3,1,4,Barrio Eucarístico
-Apartamento,400000000,146,3,2,6,El Ingenio
+Apartamento,400000000,146,3,2,5,El Ingenio
 Apartamento,205000000,58,2,3,5,Ciudad Capri
 Apartamento,184000000,63,2,2,4,Urbanización Colseguros
 Apartamento,175000000,51,2,2,4,Urbanización La Merced
@@ -164,14 +164,14 @@ Apartamento,170000000,46,3,1,4,Lili
 Apartamento,200000000,62,3,2,4,Olímpico
 Apartamento,260000000,60,2,2,4,Vipasa
 Apartamento,195000000,65,3,2,4,Ciudad 2000
-Apartamento,330000000,83,3,2,4,La Flora
+Apartamento,330000000,83,3,2,5,La Flora
 Apartamento,660000000,110,3,3,4,Miraflores
 Apartamento,630000000,92,3,3,6,Cañaveral
 Apartamento,874900000,164,3,4,5,El Gran Limonar - Cataya
 Apartamento,590000000,81,3,2,5,El Gran Limonar - Cataya
-Apartamento,320000000,74,2,2,4,Ciudad Capri
+Apartamento,320000000,74,2,2,5,Ciudad Capri
 Apartamento,310000000,72,2,2,5,Versalles
-Apartamento,600000000,118,2,3,6,San Fernando Viejo
+Apartamento,600000000,118,2,3,5,San Fernando Viejo
 Apartamento,290000000,75,3,2,4,Ciudad Los Alamos
 Apartamento,310000000,68,3,2,5,La Hacienda
 Apartamento,185000000,52,2,2,4,Bosques del Limonar
@@ -183,8 +183,8 @@ Apartamento,165000000,60,3,1,6,Menga
 Apartamento,273500000,65,3,2,4,Chipichape
 Apartamento,220000000,64,3,2,5,La Hacienda
 Apartamento,310000000,77,2,2,4,Primero de Mayo
-Apartamento,230000000,60,2,2,4,Ciudad Capri
-Apartamento,288703805,65,3,2,4,El Bosque
+Apartamento,230000000,60,2,2,5,Ciudad Capri
+Apartamento,318703805,65,3,2,5,El Bosque
 Apartamento,280000000,62,3,2,4,El Refugio
 Apartamento,395000000,93,3,3,5,Cañaveralejo - Seguros Patria
 Apartamento,195000000,70,2,2,5,Cuarto de Legua - Guadalupe
@@ -194,7 +194,7 @@ Apartamento,300000000,84,3,3,4,Caney
 Apartamento,880000000,161,4,3,4,Barrio Departamental
 Apartamento,297000000,80,3,2,4,Urbanización Militar
 Apartamento,160000000,54,3,2,4,Olímpico
-Apartamento,290000000,65,3,2,4,El Bosque
+Apartamento,350000000,75,3,2,5,El Bosque
 Apartamento,380000000,95,3,2,4,Ciudad Los Alamos
 Apartamento,270000000,78,2,2,4,Ciudad 2000
 Apartamento,240000000,34,1,1,4,Pasoancho
@@ -209,14 +209,14 @@ Apartamento,530000000,112,3,3,4,Villa del Sol
 Apartamento,248000000,65,3,2,4,Olímpico
 Apartamento,320000000,65,4,3,4,Olímpico
 Apartamento,298000000,143,4,2,4,Unidad Residencial Santiago de Cali
-Apartamento,325000000,101,3,3,4,Cuarto de Legua - Guadalupe
+Apartamento,325000000,101,3,3,5,Cuarto de Legua - Guadalupe
 Apartamento,320000000,122,3,3,4,San Vicente
 Apartamento,190000000,77,3,2,4,Miraflores
 Apartamento,290000000,70,3,2,4,Granada
-Apartamento,500000000,139,4,3,4,El Ingenio
+Apartamento,500000000,139,4,3,5,El Ingenio
 Apartamento,235000000,62,2,2,4,Villa del Sol
 Apartamento,410000000,90,3,3,4,Barrio Departamental
-Apartamento,400000000,72,3,2,4,Cuarto de Legua - Guadalupe
+Apartamento,400000000,72,3,2,5,Cuarto de Legua - Guadalupe
 Apartamento,290000000,75,3,2,4,Urbanización La Merced
 Apartamento,345000000,83,4,2,4,Villa del Sol
 Apartamento,205000000,60,3,2,5,Prados del Norte

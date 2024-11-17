@@ -1,5 +1,5 @@
 Tipo,Precio,Área,Habitaciones,Baños,Estrato,Ubicación
-Casa,250000000,52,3,2,4,Ciudad 2000
+Casa,259321822,79,3,2,4,Ciudad 2000
 Casa,474000000,280,6,4,5,Nueva Tequendama
 Casa,249000000,120,4,2,4,El Refugio
 Casa,950000000,290,5,5,5,San Fernando Viejo
@@ -8,17 +8,17 @@ Casa,550000000,270,5,5,4,Bosques del Limonar
 Casa,545000000,400,5,4,5,Nueva Tequendama
 Casa,1100000000,225,4,2,5,San Fernando Viejo
 Casa,339000000,144,3,3,4,Los Cambulos
-Casa,1300000000,253,4,4,6,Caney
-Casa,275000000,270,9,7,5,Versalles
-Casa,1350000000,360,3,4,6,Caney
+Casa,1300000000,253,4,4,6,Normandía
+Casa,475000000,270,9,7,5,Versalles
+Casa,1350000000,360,3,4,6,Normandía
 Casa,530000000,510,9,4,5,El Lido
 Casa,720000000,160,3,5,6,Altos de Santa Isabel - La Morelia
 Casa,345000000,91,3,3,5,Unicentro Cali
-Casa,178000000,150,5,2,5,San Fernando Viejo
+Casa,478000000,150,5,2,5,San Fernando Viejo
 Casa,900000000,600,7,7,5,San Fernando Viejo
 Casa,800000000,280,4,3,5,Prados del Limonar
 Casa,2250000000,850,4,9,5,La Hacienda
-Casa,1050000000,350,4,4,6,Caney
+Casa,1050000000,350,4,4,6,Normandía
 Casa,570000000,161,3,7,4,San Vicente
 Casa,2200000000,460,3,3,6,Ciudad Capri
 Casa,800000000,734,7,4,4,La Campiña
@@ -33,18 +33,18 @@ Casa,1800000000,414,5,6,5,Urbanización San Joaquin
 Casa,800000000,320,6,5,5,La Flora
 Casa,850000000,290,3,5,5,Nueva Tequendama
 Casa,850000000,360,5,5,5,El Gran Limonar
-Casa,1500000000,850,5,7,5,Miraflores
+Casa,1500000000,850,5,7,5,El Ingenio
 Casa,1100000000,400,4,5,6,Arboledas
 Casa,700000000,260,4,5,5,Unidad Residencial Santiago de Cali
 Casa,720000000,157,5,5,6,Ciudad Capri
 Casa,900000000,350,6,5,6,El Ingenio
-Casa,415000000,182,4,4,5,Vipasa
+Casa,415000000,182,4,4,5,Pampa Linda
 Casa,1000000000,365,4,4,6,El Ingenio
 Casa,1250000000,243,3,6,6,San Fernando Viejo
 Casa,2000000000,657,4,5,6,San Fernando Viejo
-Casa,2200000000,388,4,3,5,San Fernando Viejo
-Casa,1800000000,421,3,6,5,San Fernando Viejo
-Casa,1500000000,200,3,4,5,San Fernando Viejo
+Casa,2200000000,388,4,3,6,San Fernando Viejo
+Casa,1800000000,421,3,6,6,San Fernando Viejo
+Casa,1500000000,200,3,4,6,San Fernando Viejo
 Casa,270000000,210,2,3,5,Santa Anita - La Selva
 Casa,470000000,130,4,2,5,Unicentro Cali
 Casa,1450000000,332,3,5,6,Urbanización Río Lili
@@ -55,11 +55,11 @@ Casa,833000000,400,4,5,5,El Ingenio
 Casa,210000000,80,3,1,5,Los Portales - Nuevo Rey
 Casa,600000000,360,6,4,4,Ciudad 2000
 Casa,250000000,140,4,2,5,Prados del Norte
-Casa,149900000,120,3,2,5,La Flora
+Casa,549900000,120,3,2,5,La Flora
 Casa,335000000,91,2,2,5,Ciudad Capri
-Casa,190000000,97,3,2,5,La Cascada
+Casa,290000000,97,3,2,5,La Cascada
 Casa,580000000,140,3,2,5,San Fernando Viejo
-Casa,2000000000,446,3,4,6,Caney
+Casa,2000000000,446,3,4,6,Normandía
 Casa,450000000,159,2,4,5,La Cascada
 Casa,450000000,180,4,5,5,Las Quintas de Don Simón
 Casa,860000000,348,5,7,4,Santa Isabel
@@ -68,9 +68,9 @@ Casa,270000000,116,4,2,5,La Flora
 Casa,1800000000,430,5,6,6,Urbanización Ciudad Jardín
 Casa,249000000,145,6,3,4,Caney
 Casa,550000000,380,6,4,5,Colseguros Andes
-Casa,280000000,85,4,3,4,Cañaveral
+Casa,340000000,85,4,3,4,Villa del Sol
 Casa,750000000,350,4,5,5,Prados del Norte
-Casa,380000000,180,8,4,6,Santa Teresita
+Casa,980000000,180,8,4,6,Santa Teresita
 Casa,260000000,132,4,3,5,El Ingenio
 Casa,700000000,200,5,4,4,Santa Isabel
 Casa,1400000000,430,4,5,5,San Fernando Viejo
@@ -79,7 +79,7 @@ Casa,1150000000,250,4,5,5,El Ingenio
 Casa,560000000,250,4,4,5,Los Portales - Nuevo Rey
 Casa,750000000,276,5,4,5,Santa Rita
 Casa,280000000,152,8,2,5,Urbanización La Flora
-Casa,850000000,308,6,5,5,Granada
+Casa,850000000,308,6,5,5,Nueva Tequendama
 Casa,1500000000,412,5,5,5,Ciudadela Pasoancho
 Casa,1000000000,150,4,2,5,Prados del Norte
 Casa,1900000000,544,5,6,5,Santa Anita - La Selva
@@ -87,10 +87,10 @@ Casa,1150000000,430,4,6,5,El Bosque
 Casa,1000000000,215,6,2,5,El Bosque
 Casa,1350000000,345,5,5,6,Urbanización Ciudad Jardín
 Casa,480000000,420,9,6,4,3 de Julio
-Casa,2000000000,500,5,5,6,Caney
+Casa,2000000000,500,5,5,6,Normandía
 Casa,630000000,240,5,5,5,Prados del Norte
-Casa,550000000,90,4,4,5,Caney
-Casa,875000000,250,4,4,5,Granada
+Casa,550000000,90,4,4,4,Caney
+Casa,875000000,250,4,4,5,La Cascada
 Casa,550000000,247,3,3,5,La Cascada
 Casa,480000000,158,4,3,5,Los Portales - Nuevo Rey
 Casa,2000000000,600,9,9,5,Prados del Norte
@@ -111,8 +111,8 @@ Casa,1700000000,300,4,5,5,Urbanización San Joaquin
 Casa,1900000000,260,3,3,5,San Fernando Viejo
 Casa,680000000,155,3,3,5,La Flora
 Casa,570000000,135,4,4,5,San Fernando Viejo
-Casa,182000000,195,8,3,5,Centenario
-Casa,1850000000,600,5,6,5,Caney
+Casa,682000000,195,8,3,5,Centenario
+Casa,1850000000,600,5,6,5,El Ingenio
 Casa,1500000000,150,6,5,5,El Ingenio
 Casa,2200000000,480,5,5,5,Pampa Linda
 Casa,1400000000,250,6,4,4,Los Cambulos
@@ -127,39 +127,39 @@ Casa,430000000,180,5,1,5,El Gran Limonar - Cataya
 Casa,280000000,123,5,1,5,Pampa Linda
 Casa,350000000,170,6,2,5,Cañaveralejo - Seguros Patria
 Casa,830000000,370,4,4,5,Versalles
-Casa,1650000000,280,4,5,5,Caney
+Casa,1650000000,280,4,5,5,Ciudad Capri
 Casa,730000000,256,4,4,5,Prados del Norte
 Casa,750000000,340,4,5,5,Nueva Tequendama
 Casa,540000000,256,4,2,5,El Bosque
 Casa,480000000,100,3,3,5,El Peñón
 Casa,320000000,158,4,1,5,Urbanización San Joaquin
-Casa,119000000,300,3,3,5,Juanambú
+Casa,889000000,300,3,3,5,Juanambú
 Casa,280000000,125,4,2,5,El Ingenio
 Casa,470000000,400,7,5,5,Versalles
 Casa,780000000,150,4,3,5,Ciudadela Pasoancho
 Casa,279000000,153,4,1,5,Sector Cañaveralejo Guadalupe
-Casa,389900000,230,9,6,5,Juanambú
+Casa,489900000,230,9,6,5,Juanambú
 Casa,1850000000,822,6,6,5,Versalles
 Casa,250000000,112,4,2,5,El Lido
 Casa,259900000,100,3,3,5,Urbanización San Joaquin
-Casa,2200000000,500,3,2,6,Caney
+Casa,2200000000,500,3,2,6,Urbanización Ciudad Jardín
 Casa,345000000,225,9,3,5,Cuarto de Legua - Guadalupe
 Casa,370000000,149,5,2,5,Camino Real - Joaquín Borrero Sinisterra
-Casa,494000000,124,4,4,6,Ciudad 2000
+Casa,494000000,124,4,4,4,Ciudad 2000
 Casa,1390000000,600,4,5,5,Nueva Tequendama
 Casa,1400000000,600,8,9,4,Colseguros Andes
-Casa,175000000,80,3,2,5,Versalles
+Casa,775000000,190,3,2,5,Versalles
 Casa,240000000,100,3,1,5,Ciudadela Pasoancho
 Casa,430000000,300,6,4,5,Cañaveralejo - Seguros Patria
 Casa,430000000,91,3,3,5,Ciudad Capri
 Casa,315000000,144,5,2,5,Urbanización Tequendama
-Casa,185000000,165,5,1,5,San Fernando Viejo
+Casa,585000000,165,5,1,5,San Fernando Viejo
 Casa,239900000,178,3,1,5,Santa Anita - La Selva
 Casa,980000000,250,5,4,5,El Ingenio
 Casa,210000000,144,3,2,5,Urbanización La Flora
 Casa,430000000,270,4,6,5,Los Portales - Nuevo Rey
-Casa,1250000000,244,5,6,6,Ciudad Capri
-Casa,1400000000,417,5,6,5,Granada
+Casa,1250000000,244,5,6,5,Ciudad Capri
+Casa,1400000000,417,5,6,5,Centenario
 Casa,400000000,170,6,3,5,Los Portales - Nuevo Rey
 Casa,470000000,270,6,3,4,Urbanización Nueva Granada
 Casa,350000000,96,3,3,5,Pampa Linda
@@ -167,15 +167,15 @@ Casa,320000000,140,8,4,5,Pampa Linda
 Casa,250000000,150,6,3,5,Santa Mónica
 Casa,945000000,305,10,2,5,Mayapan - Las Vegas
 Casa,890000000,350,8,9,5,Sector Cañaveralejo Guadalupe
-Casa,135000000,60,2,2,5,Camino Real - Los Fundadores
-Casa,210000000,60,3,2,5,El Lido
-Casa,195000000,60,4,2,5,Santa Anita - La Selva
+Casa,289164838,78,2,2,5,Camino Real - Los Fundadores
+Casa,289624874,76,3,2,5,El Lido
+Casa,285160414,79,4,2,5,Santa Anita - La Selva
 Casa,1300000000,395,6,7,4,Prados del Limonar
 Casa,440000000,350,5,5,4,3 de Julio
 Casa,775000000,431,4,4,4,El Refugio
 Casa,1100000000,400,4,3,4,La Flora
 Casa,1020000000,200,4,2,5,Urbanización La Flora
-Casa,195000000,90,3,2,6,Santa Barbara
+Casa,1195000000,290,5,3,6,Santa Barbara
 Casa,390000000,72,7,3,5,Urbanización San Joaquin
 Casa,540000000,140,4,4,6,Ciudad Campestre
 Casa,230000000,236,3,3,5,Los Portales - Nuevo Rey
@@ -205,19 +205,19 @@ Casa,230000000,90,3,2,5,Prados del Norte
 Casa,480000000,300,10,7,5,Juanambú
 Casa,550000000,250,4,3,4,Vipasa
 Casa,1800000000,500,5,4,5,El Ingenio
-Casa,190000000,115,3,2,4,Champagñat
+Casa,290000000,115,3,2,4,Champagñat
 Casa,365000000,180,6,3,5,El Gran Limonar
 Casa,600000000,290,5,5,4,El Bosque
 Casa,180000000,270,8,4,5,El Lido
-Casa,105000000,58,3,1,5,Versalles
-Casa,107000000,78,3,1,4,Barrio Departamental
+Casa,575000000,172,4,3,5,Primavera
+Casa,327000000,134,3,2,4,Barrio Departamental
 Casa,580000000,384,12,6,5,El Ingenio
 Casa,600000000,620,9,4,5,Urbanización San Joaquin
 Casa,570000000,180,4,4,5,San Fernando Viejo
 Casa,972000000,314,9,4,5,Santa Anita - La Selva
 Casa,588000000,190,7,5,5,Juanambú
-Casa,200000000,320,9,2,5,Cuarto de Legua - Guadalupe
-Casa,300000000,154,6,2,5,Santa Anita - La Selva
+Casa,1500000000,320,9,2,5,Cuarto de Legua - Guadalupe
+Casa,390000000,154,6,2,5,Santa Anita - La Selva
 Casa,750000000,600,10,7,5,El Bosque
 Casa,1500000000,580,8,7,5,El Ingenio
 Casa,215000000,93,4,2,4,Barrio Eucarístico
@@ -228,7 +228,7 @@ Casa,530000000,270,5,4,5,La Cascada
 Casa,850000000,370,5,5,5,Ciudad Capri
 Casa,910000000,280,5,5,5,Santa Isabel
 Casa,1300000000,300,5,4,5,San Fernando Viejo
-Casa,1900000000,290,5,7,5,Caney
+Casa,1900000000,290,5,7,5,Ciudad Capri
 Casa,650000000,400,5,5,5,Camino Real - Joaquín Borrero Sinisterra
 Casa,600000000,200,3,3,5,Pampa Linda
 Casa,750000000,246,4,5,5,Ciudad Capri
@@ -240,7 +240,7 @@ Casa,550000000,360,5,4,5,El Cedro
 Casa,450000000,148,8,8,5,Mayapan - Las Vegas
 Casa,460000000,130,3,3,4,El Refugio
 Casa,345000000,144,3,3,5,Los Portales - Nuevo Rey
-Casa,550000000,270,4,4,5,Caney
+Casa,550000000,270,4,4,4,Caney
 Casa,589000000,310,5,3,5,Prados del Norte
 Casa,145000000,100,4,2,4,Villa del Sol
 Casa,420000000,317,9,3,5,El Peñón
@@ -249,16 +249,16 @@ Casa,550000000,392,9,6,4,Barrio Departamental
 Casa,520000000,180,4,3,5,San Fernando Viejo
 Casa,379000000,147,3,2,4,Olímpico
 Casa,500000000,131,4,3,5,Los Portales - Nuevo Rey
-Casa,370000000,127,5,4,5,Caney
+Casa,370000000,127,5,4,4,Caney
 Casa,245000000,90,5,3,5,Las Quintas de Don Simón
 Casa,495000000,230,4,3,5,Mayapan - Las Vegas
 Casa,599000000,217,11,5,5,El Peñón
 Casa,970000000,575,5,10,5,El Bosque
-Casa,370000000,61,3,3,4,La Campiña
-Casa,125000000,76,3,1,4,Lili
+Casa,262794501,73,3,3,4,La Campiña
+Casa,325000000,76,3,1,4,Lili
 Casa,640000000,185,4,3,6,Cañaveral
 Casa,350000000,128,3,3,5,Cañaveralejo - Seguros Patria
-Casa,1800000000,316,3,5,5,Caney
+Casa,1800000000,316,3,5,5,El Lido
 Casa,430000000,90,3,3,5,Prados del Limonar
 Casa,370000000,110,5,4,5,El Bosque
 Casa,770000000,142,4,3,5,La Cascada
@@ -280,11 +280,11 @@ Casa,545000000,240,4,3,5,San Fernando Viejo
 Casa,660000000,208,3,3,5,Mayapan - Las Vegas
 Casa,420000000,120,3,3,5,El Lido
 Casa,500000000,180,4,4,5,Urbanización La Flora
-Casa,1100000000,345,3,3,5,Caney
+Casa,1100000000,345,3,3,5,El Lido
 Casa,400000000,83,3,2,4,Bosques del Limonar
 Casa,180000000,80,2,2,5,Prados del Limonar
 Casa,2200000000,245,4,5,6,Parcelaciones Pance
-Casa,250000000,52,3,2,6,Santa Rita
+Casa,309017943,80,3,2,6,Santa Rita
 Casa,210000000,110,2,1,5,El Bosque
 Casa,220000000,130,3,2,5,Camino Real - Joaquín Borrero Sinisterra
 Casa,205000000,71,3,2,6,Santa Barbara
@@ -300,12 +300,12 @@ Casa,1730000000,251,3,3,6,Menga
 Casa,780000000,240,4,4,4,Barrio Eucarístico
 Casa,650000000,283,3,3,4,Urbanización Militar
 Casa,998000000,192,3,3,5,El Gran Limonar
-Casa,175500000,63,3,2,5,Centenario
+Casa,286939976,73,3,2,5,Centenario
 Casa,790000000,148,3,3,4,Los Cambulos
 Casa,2400000000,300,4,4,4,Barrio Departamental
 Casa,255000000,144,3,2,4,El Refugio
 Casa,410000000,105,3,3,5,La Hacienda
-Casa,200000000,105,3,3,5,Camino Real - Los Fundadores
+Casa,400000000,105,3,3,5,Camino Real - Los Fundadores
 Casa,1600000000,330,4,4,6,Ciudad Campestre
 Casa,1900000000,320,3,3,5,Santa Mónica
 Casa,355000000,160,4,4,5,Nueva Tequendama
@@ -315,7 +315,7 @@ Casa,410000000,115,4,3,4,El Cedro
 Casa,880000000,130,4,2,5,Centenario
 Casa,1600000000,409,4,4,4,Colseguros Andes
 Casa,820000000,280,7,3,5,El Bosque
-Casa,200000000,62,3,2,5,El Lido
+Casa,285097984,72,3,2,5,El Lido
 Casa,2150000000,390,5,5,6,Club Campestre
 Casa,440000000,89,3,3,4,Villa del Sol
 Casa,1550000000,260,3,4,4,Chipichape
@@ -326,7 +326,7 @@ Casa,249000000,120,4,2,5,La Cascada
 Casa,275000000,108,3,1,6,Arboledas
 Casa,650000000,310,4,4,6,Santa Teresita
 Casa,650000000,97,3,3,6,Cañaveral
-Casa,215000000,60,4,2,5,Cañaveralejo - Seguros Patria
+Casa,282848043,76,4,2,5,Cañaveralejo - Seguros Patria
 Casa,1399000000,223,5,6,5,Nueva Tequendama
 Casa,950000000,290,5,5,5,Sector Cañaveralejo Guadalupe
 Casa,360000000,230,9,3,4,Urbanización Nueva Granada
@@ -388,12 +388,12 @@ Casa,1150000000,151,3,3,5,Juanambú
 Casa,1250000000,161,3,4,6,Cañaveral
 Casa,2000000000,450,4,5,4,Urbanización Nueva Granada
 Casa,1420000000,255,4,5,5,Sector Cañaveralejo Guadalupe
-Casa,220000000,58,3,2,5,La Hacienda
+Casa,289011664,79,3,2,5,La Hacienda
 Casa,330000000,113,4,3,6,Cañaveral
 Casa,530000000,105,3,3,4,Urbanización La Merced
 Casa,980000000,235,4,5,6,Santa Rita
 Casa,980000000,156,3,2,6,Urbanización Ciudad Jardín
-Casa,280000000,66,3,2,6,Arboledas
+Casa,306918427,75,3,2,6,Arboledas
 Casa,255000000,98,3,2,5,Camino Real - Joaquín Borrero Sinisterra
 Casa,900000000,500,5,4,5,La Cascada
 Casa,590000000,228,5,2,4,Miraflores
@@ -411,7 +411,7 @@ Casa,1350000000,245,3,4,6,Tejares - Cristales
 Casa,800000000,150,4,3,5,La Flora
 Casa,396000000,143,3,2,5,Unicentro Cali
 Casa,650000000,250,4,4,5,Ciudadela Pasoancho
-Casa,390000000,112,4,2,4,Champagñat
+Casa,400000000,112,4,2,4,Champagñat
 Casa,330000000,104,3,3,5,Cañaveralejo - Seguros Patria
 Casa,550000000,174,5,3,4,Caney
 Casa,310000000,156,3,2,5,Prados del Norte
@@ -451,7 +451,7 @@ Casa,1150000000,220,4,3,4,Caney
 Casa,700000000,191,3,3,5,Juanambú
 Casa,550000000,270,5,5,4,Ciudad 2000
 Casa,590000000,140,3,3,4,Urbanización Nueva Granada
-Casa,320000000,114,3,3,6,Urbanización Ciudad Jardín
+Casa,720000000,114,3,3,6,Urbanización Ciudad Jardín
 Casa,588000000,108,3,3,4,Unidad Residencial Santiago de Cali
 Casa,630000000,96,3,3,5,Cuarto de Legua - Guadalupe
 Casa,1200000000,250,5,5,6,Arboledas
@@ -508,10 +508,10 @@ Casa,860000000,161,4,2,5,Camino Real - Joaquín Borrero Sinisterra
 Casa,2490000000,310,3,4,4,3 de Julio
 Casa,1100000000,200,4,4,5,San Fernando Viejo
 Casa,670000000,90,3,2,5,Unicentro Cali
-Casa,155000000,74,3,2,6,Santa Rita
+Casa,555000000,92,3,3,6,Santa Rita
 Casa,2200000000,230,3,3,5,Pampa Linda
 Casa,2400000000,520,6,9,4,Barrio Eucarístico
-Casa,170000000,64,3,1,4,Villa del Sol
+Casa,272302303,74,3,1,4,Villa del Sol
 Casa,445000000,110,3,4,4,Pasoancho
 Casa,455000000,170,3,3,5,Cañaveralejo - Seguros Patria
 Casa,745000000,134,4,3,5,Versalles
@@ -543,7 +543,7 @@ Casa,1900000000,458,4,5,6,Santa Teresita
 Casa,720000000,160,3,3,5,Los Portales - Nuevo Rey
 Casa,270000000,75,4,1,5,El Ingenio
 Casa,300000000,170,3,2,4,3 de Julio
-Casa,185000000,60,3,1,5,Unicentro Cali
+Casa,345000000,89,3,2,5,Unicentro Cali
 Casa,870000000,200,3,3,6,Santa Teresita
 Casa,610000000,112,3,3,4,Lili
 Casa,412000000,102,3,2,5,Prados del Limonar
@@ -570,7 +570,7 @@ Casa,218000000,144,3,3,5,Urbanización San Joaquin
 Casa,700000000,150,4,4,4,El Cedro
 Casa,350000000,348,8,3,6,Tejares - Cristales
 Casa,850000000,115,2,3,6,Menga
-Casa,168000000,60,3,2,5,El Peñón
+Casa,287893248,72,3,2,5,El Peñón
 Casa,700000000,200,3,3,4,Urbanización Colseguros
 Casa,1050000000,167,3,2,5,Urbanización La Flora
 Casa,800000000,200,3,2,4,La Campiña
@@ -595,7 +595,7 @@ Casa,929000000,246,3,3,4,Bosques del Limonar
 Casa,170000000,84,3,2,4,Primero de Mayo
 Casa,850000000,147,3,3,5,Mayapan - Las Vegas
 Casa,280000000,135,3,3,5,La Flora
-Casa,350000000,68,3,2,4,Caney
+Casa,261726020,75,3,2,4,Caney
 Casa,750000000,179,4,4,5,El Peñón
 Casa,250000000,114,5,3,4,Urbanización Colseguros
 Casa,320000000,295,9,4,5,Prados del Norte
@@ -632,7 +632,7 @@ Casa,1100000000,166,4,4,4,Los Cambulos
 Casa,630000000,300,6,3,6,Normandía
 Casa,2500000000,400,6,7,6,Arboledas
 Casa,1980000000,249,3,4,5,El Lido
-Casa,175000000,76,3,2,4,Champagñat
+Casa,375000000,176,4,3,4,Champagñat
 Casa,680000000,150,4,4,4,Urbanización Nueva Granada
 Casa,1898000000,280,4,5,5,Cuarto de Legua - Guadalupe
 Casa,1100000000,406,7,4,4,Colseguros Andes
@@ -664,7 +664,7 @@ Casa,750000000,124,3,3,5,Mayapan - Las Vegas
 Casa,1390000000,354,4,5,4,San Fernando Nuevo
 Casa,1900000000,243,3,5,4,La Campiña
 Casa,450000000,160,3,3,4,Colseguros Andes
-Casa,550000000,60,2,2,5,El Gran Limonar - Cataya
+Casa,289703556,77,2,2,5,El Gran Limonar - Cataya
 Casa,450000000,244,4,5,6,Cañaveral
 Casa,345000000,91,2,3,5,La Hacienda
 Casa,1420000000,252,3,5,5,El Peñón
@@ -680,7 +680,7 @@ Casa,540000000,142,5,3,6,Arboledas
 Casa,1450000000,200,3,3,6,Ciudad Campestre
 Casa,370000000,70,2,2,6,Parcelaciones Pance
 Casa,290000000,237,8,3,6,Altos de Santa Isabel - La Morelia
-Casa,150000000,50,2,2,5,Juanambú
+Casa,287378738,70,2,2,5,Juanambú
 Casa,720000000,160,3,5,6,Tejares - Cristales
 Casa,320000000,150,4,2,5,Santa Mónica
 Casa,1400000000,430,5,6,4,Olímpico
@@ -692,7 +692,7 @@ Casa,600000000,176,3,3,6,Ciudad Campestre
 Casa,310000000,120,4,2,6,Parcelaciones Pance
 Casa,750000000,210,4,2,6,Urbanización Ciudad Jardín
 Casa,410000000,108,4,2,5,Prados del Limonar
-Casa,130000000,60,2,1,4,Vipasa
+Casa,230000000,80,2,1,4,Vipasa
 Casa,500000000,280,5,5,5,La Cascada
 Casa,400000000,133,3,3,4,3 de Julio
 Casa,400000000,177,4,2,4,Urbanización Colseguros
@@ -720,13 +720,13 @@ Casa,430000000,250,6,3,5,El Bosque
 Casa,410000000,180,4,3,6,Santa Barbara
 Casa,260000000,90,4,2,5,Prados del Limonar
 Casa,270000000,70,2,2,6,Urbanización Río Lili
-Casa,250000000,52,3,2,4,Chipichape
+Casa,258658497,74,3,2,4,Chipichape
 Casa,880000000,240,4,4,4,Olímpico
 Casa,1600000000,420,4,4,4,Unidad Residencial Santiago de Cali
 Casa,460000000,213,6,3,5,Camino Real - Joaquín Borrero Sinisterra
 Casa,280000000,80,4,1,6,Cañaveral
 Casa,450000000,120,5,2,5,Pampa Linda
-Casa,280000000,100,3,1,5,San Fernando Viejo
+Casa,310000000,100,3,1,5,San Fernando Viejo
 Casa,550000000,230,2,1,5,Nueva Tequendama
 Casa,490000000,169,3,4,6,Santa Rita
 Casa,250000000,140,3,1,4,San Vicente
@@ -735,7 +735,7 @@ Casa,750000000,220,4,4,5,Versalles
 Casa,990000000,227,4,4,5,Los Portales - Nuevo Rey
 Casa,290000000,200,3,3,6,Santa Barbara
 Casa,310000000,95,2,1,4,Ciudad 2000
-Casa,239000000,66,3,2,6,Altos de Santa Isabel - La Morelia
+Casa,291970474,76,3,2,6,Altos de Santa Isabel - La Morelia
 Casa,979999999,200,8,8,4,Caney
 Casa,1600000000,228,4,4,4,Villa del Sol
 Casa,550000000,240,4,3,6,Tejares - Cristales
@@ -748,14 +748,14 @@ Casa,1400000000,220,4,3,4,Caney
 Casa,1100000000,168,3,3,6,Altos de Santa Isabel - La Morelia
 Casa,740000000,137,3,4,5,Juanambú
 Casa,460000000,138,4,4,5,Camino Real - Joaquín Borrero Sinisterra
-Casa,540000000,148,4,3,6,Urbanización Ciudad Jardín
+Casa,640000000,148,4,3,6,Urbanización Ciudad Jardín
 Casa,750000000,200,5,3,6,Urbanización Ciudad Jardín
 Casa,600000000,300,5,3,5,Unicentro Cali
 Casa,1200000000,280,6,5,4,Barrio Eucarístico
 Casa,450000000,144,4,2,5,La Flora
 Casa,850000000,137,3,4,5,Pampa Linda
 Casa,800000000,200,3,2,4,Lili
-Casa,170000000,60,3,2,5,Santa Anita - La Selva
+Casa,281523162,70,3,2,5,Santa Anita - La Selva
 Casa,550000000,122,3,3,5,La Cascada
 Casa,380000000,135,4,2,4,Primero de Mayo
 Casa,790000000,213,3,2,5,Cuarto de Legua - Guadalupe
@@ -765,17 +765,17 @@ Casa,540000000,132,3,2,4,Urbanización Militar
 Casa,750000000,137,3,4,4,Ciudad Los Alamos
 Casa,900000000,200,3,3,5,Camino Real - Los Fundadores
 Casa,860000000,148,3,3,5,Juanambú
-Casa,178000000,150,5,2,5,El Ingenio
+Casa,478000000,150,5,2,5,El Ingenio
 Casa,440000000,105,3,2,4,San Fernando Nuevo
 Casa,850000000,220,4,5,4,Bosques del Limonar
 Casa,460000000,114,3,3,5,Cuarto de Legua - Guadalupe
 Casa,240000000,162,6,3,4,San Fernando Nuevo
 Casa,310000000,186,4,2,6,Menga
 Casa,1200000000,205,4,4,5,Cuarto de Legua - Guadalupe
-Casa,140000000,53,3,1,4,Chipichape
+Casa,273306383,70,3,1,4,Chipichape
 Casa,380000000,120,5,3,4,Pasoancho
-Casa,364189189,66,3,2,4,Urbanización Nueva Granada
-Casa,176838235,65,4,2,4,Unidad Residencial Santiago de Cali
+Casa,276321476,73,3,2,4,Urbanización Nueva Granada
+Casa,269534824,72,4,2,4,Unidad Residencial Santiago de Cali
 Casa,160000000,90,3,2,4,Los Cambulos
 Casa,600000000,149,4,4,5,Sector Cañaveralejo Guadalupe
 Casa,202300000,76,3,3,4,Urbanización Colseguros
@@ -786,7 +786,7 @@ Casa,337000000,80,3,2,5,El Ingenio
 Casa,370000000,70,3,2,6,Tejares - Cristales
 Casa,460000000,112,3,3,5,Versalles
 Casa,870000000,264,3,3,4,Primero de Mayo
-Casa,154900000,50,2,1,5,El Ingenio
+Casa,282188599,71,2,1,5,El Ingenio
 Casa,930000000,145,3,3,4,Barrio Departamental
 Casa,750000000,100,3,3,6,Club Campestre
 Casa,380000000,72,3,1,5,Cuarto de Legua - Guadalupe
@@ -830,7 +830,7 @@ Casa,750000000,215,5,4,5,Ciudad Capri
 Casa,410000000,340,6,6,5,El Gran Limonar
 Casa,1300000000,870,7,7,5,San Fernando Viejo
 Casa,1200000000,700,4,4,5,El Gran Limonar - Cataya
-Casa,460000000,128,3,3,6,Urbanización Ciudad Jardín
+Casa,560000000,128,3,3,6,Urbanización Ciudad Jardín
 Casa,276000000,120,5,5,4,Barrio Eucarístico
 Casa,440000000,105,3,3,5,El Bosque
 Casa,550000000,253,4,4,4,Barrio Eucarístico
@@ -839,13 +839,13 @@ Casa,390000000,123,4,3,5,Versalles
 Casa,680000000,230,9,3,4,San Vicente
 Casa,800000000,270,6,5,4,Urbanización Nueva Granada
 Casa,268000000,90,4,3,6,Tejares - Cristales
-Casa,237000000,65,3,3,5,Ciudadela Pasoancho
+Casa,283721981,70,3,3,5,Ciudadela Pasoancho
 Casa,500000000,240,4,4,4,Bosques del Limonar
 Casa,285000000,120,6,3,4,Bosques del Limonar
 Casa,290000000,95,3,2,4,Urbanización La Merced
 Casa,610000000,336,7,8,5,Ciudad Capri
 Casa,1400000000,119,4,3,5,Nueva Tequendama
-Casa,130000000,70,4,2,4,Bosques del Limonar
+Casa,230000000,90,4,2,4,Bosques del Limonar
 Casa,354500000,83,3,2,5,Los Portales - Nuevo Rey
 Casa,420000000,230,4,2,5,Santa Mónica
 Casa,1100000000,250,4,5,4,La Campiña
@@ -858,11 +858,10 @@ Casa,270000000,110,4,3,5,El Bosque
 Casa,1500000000,230,3,4,4,Primero de Mayo
 Casa,260000000,145,3,2,5,Nueva Tequendama
 Casa,450000000,180,5,4,5,Cañaveralejo - Seguros Patria
-Casa,130000000,52,2,1,4,Unidad Residencial Santiago de Cali
+Casa,210000000,83,2,1,4,Unidad Residencial Santiago de Cali
 Casa,330000000,105,4,3,5,Urbanización San Joaquin
 Casa,450000000,72,7,3,5,Ciudad Capri
 Casa,2150000000,260,3,4,4,Urbanización Nueva Granada
-Casa,226000000,92,3,2,6,Urbanización Ciudad Jardín
 Casa,340000000,95,3,3,5,Nueva Tequendama
 Casa,699000000,225,3,3,4,Villa del Sol
 Casa,880000000,150,4,3,6,Altos de Santa Isabel - La Morelia
@@ -879,7 +878,7 @@ Casa,220000000,133,4,1,5,El Peñón
 Casa,950000000,326,6,5,5,El Gran Limonar
 Casa,300000000,95,3,3,5,Nueva Tequendama
 Casa,900000000,221,4,2,5,Sector Cañaveralejo Guadalupe
-Casa,160000000,57,2,2,6,Ciudad Campestre
+Casa,299681677,72,2,2,6,Ciudad Campestre
 Casa,295000000,90,4,3,6,Ciudad Campestre
 Casa,450000000,128,3,3,5,Centenario
 Casa,330000000,115,3,4,6,Club Campestre
@@ -887,7 +886,7 @@ Casa,450000000,210,3,3,5,El Bosque
 Casa,430000000,126,3,3,5,El Lido
 Casa,450000000,128,3,3,4,Barrio Eucarístico
 Casa,150000000,200,8,4,6,Altos de Santa Isabel - La Morelia
-Casa,320000000,105,4,4,6,Urbanización Ciudad Jardín
+Casa,720000000,105,4,4,6,Urbanización Ciudad Jardín
 Casa,420000000,142,5,4,6,Tejares - Cristales
 Casa,400000000,130,5,2,5,Cuarto de Legua - Guadalupe
 Casa,950000010,186,9,7,5,Nueva Tequendama
@@ -899,7 +898,7 @@ Casa,330000000,95,4,4,5,El Gran Limonar
 Casa,720000000,138,3,3,6,Altos de Santa Isabel - La Morelia
 Casa,1000000000,500,3,4,4,Chipichape
 Casa,360000000,115,3,3,6,Tejares - Cristales
-Casa,130000000,46,3,2,4,Barrio Eucarístico
+Casa,230000000,96,3,2,4,Barrio Eucarístico
 Casa,280000000,140,3,3,5,La Cascada
 Casa,710000000,270,4,4,5,La Cascada
 Casa,460000000,186,4,4,5,Urbanización Tequendama
@@ -913,9 +912,8 @@ Casa,2500000000,315,3,5,5,Versalles
 Casa,2000000000,350,4,6,6,Santa Rita
 Casa,390000000,161,3,2,6,Santa Barbara
 Casa,310000000,90,3,2,5,Cañaveralejo - Seguros Patria
-Casa,130000000,120,3,2,6,Santa Rita
 Casa,330000000,140,4,3,5,Santa Anita - La Selva
-Casa,170000000,60,2,2,6,Normandía
+Casa,291203708,74,2,2,6,Normandía
 Casa,630000000,300,3,5,5,La Hacienda
 Casa,1200000000,360,5,5,5,Camino Real - Los Fundadores
 Casa,290000000,90,3,1,5,Versalles
@@ -924,7 +922,7 @@ Casa,370000000,100,4,4,5,Senderos de la Flora
 Casa,285000000,160,4,3,4,Granada
 Casa,890000000,290,4,3,4,Champagñat
 Casa,268000000,110,4,2,5,Prados del Limonar
-Casa,190000000,49,2,1,4,Barrio Departamental
+Casa,270872004,75,2,1,4,Barrio Departamental
 Casa,198000000,81,2,2,5,Prados del Limonar
 Casa,300000000,250,4,3,5,San Fernando Viejo
 Casa,650000000,200,4,3,5,Urbanización La Flora
@@ -940,7 +938,7 @@ Casa,250000000,105,3,2,5,Camino Real - Joaquín Borrero Sinisterra
 Casa,230000000,153,4,2,5,Mayapan - Las Vegas
 Casa,295000000,71,3,2,6,Urbanización Río Lili
 Casa,230000000,153,4,2,6,Altos de Santa Isabel - La Morelia
-Casa,282000000,63,3,2,4,Pasoancho
+Casa,275290058,73,3,2,4,Pasoancho
 Casa,500000000,138,4,3,4,Barrio Eucarístico
 Casa,500000000,600,3,3,5,Pampa Linda
 Casa,260000000,95,3,3,5,Sector Cañaveralejo Guadalupe
@@ -957,13 +955,13 @@ Casa,199500000,90,3,2,4,Santa Isabel
 Casa,370000000,157,3,2,4,Bosques del Limonar
 Casa,720000000,134,5,5,5,Versalles
 Casa,500000000,110,4,2,4,Los Cambulos
-Casa,170000000,72,2,1,6,Menga
+Casa,370000000,95,3,2,6,Menga
 Casa,585000000,114,3,4,5,El Bosque
 Casa,700000000,185,5,3,6,Normandía
-Casa,185000000,72,3,2,5,Centenario
+Casa,335000000,89,3,2,5,Centenario
 Casa,325000000,112,3,3,6,Santa Teresita
-Casa,175000000,36,2,1,5,Cuarto de Legua - Guadalupe
-Casa,239000000,66,3,2,4,El Refugio
+Casa,287569693,71,2,1,5,Cuarto de Legua - Guadalupe
+Casa,274880108,73,3,2,4,El Refugio
 Casa,430000000,94,3,2,5,Santa Mónica
 Casa,600000000,170,2,3,6,Altos de Santa Isabel - La Morelia
 Casa,570000000,270,4,4,6,Cañaveral
@@ -978,7 +976,7 @@ Casa,950000000,300,3,2,5,Las Quintas de Don Simón
 Casa,210000000,78,3,2,4,Ciudad Los Alamos
 Casa,1600000000,345,5,6,4,Bosques del Limonar
 Casa,550000000,144,4,3,5,El Gran Limonar
-Casa,175000000,85,3,1,5,Unicentro Cali
+Casa,275000000,85,3,1,5,Unicentro Cali
 Casa,320000000,88,3,2,6,Urbanización Río Lili
 Casa,165000000,70,3,2,6,Tejares - Cristales
 Casa,349500000,125,3,2,4,Los Cambulos
@@ -988,7 +986,7 @@ Casa,498000000,192,5,4,5,Cañaveralejo - Seguros Patria
 Casa,390000000,230,10,6,6,Santa Barbara
 Casa,230000000,92,3,2,5,Sector Cañaveralejo Guadalupe
 Casa,450000000,144,3,4,4,San Vicente
-Casa,1200000000,48,6,4,5,Prados del Norte
+Casa,284353142,70,6,4,5,Prados del Norte
 Casa,600000000,200,4,4,6,Urbanización Río Lili
 Casa,850000000,150,3,3,4,Caney
 Casa,480000000,246,7,6,4,Urbanización Nueva Granada
@@ -1132,7 +1130,7 @@ Casa,750000000,260,4,4,5,Las Quintas de Don Simón
 Casa,800000000,734,7,4,4,La Campiña
 Casa,1900000000,300,5,6,5,La Flora
 Casa,300000000,90,3,2,4,Unidad Residencial Santiago de Cali
-Casa,1500000000,32,6,5,4,La Campiña
+Casa,278495249,76,6,5,4,La Campiña
 Casa,600000000,180,4,4,5,La Hacienda
 Casa,2400000000,550,5,5,5,Juanambú
 Casa,1500000000,400,5,4,4,Unidad Residencial El Coliseo
@@ -1153,7 +1151,7 @@ Casa,390000000,78,3,4,4,Bosques del Limonar
 Casa,1500000000,388,4,4,6,Santa Rita
 Casa,250000000,96,3,3,4,Lili
 Casa,1500000000,218,3,6,5,El Ingenio
-Casa,180000000,56,3,2,5,Santa Anita - La Selva
+Casa,289309522,70,3,2,5,Santa Anita - La Selva
 Casa,350000000,280,8,4,6,Urbanización Río Lili
 Casa,280000000,136,5,4,5,Ciudad Capri
 Casa,350000000,110,4,2,5,El Lido
@@ -1183,7 +1181,6 @@ Casa,370000000,140,4,3,5,Mayapan - Las Vegas
 Casa,660000000,172,5,3,6,Normandía
 Casa,850000000,750,10,6,4,Ciudad 2000
 Casa,960000000,214,7,3,4,Urbanización Colseguros
-Casa,350000000,180,5,4,6,Urbanización Ciudad Jardín
 Casa,1300000000,434,11,10,5,El Gran Limonar - Cataya
 Casa,290000000,110,3,3,5,Centenario
 Casa,430000000,200,4,3,5,Santa Mónica
@@ -1198,7 +1195,7 @@ Casa,800000000,284,3,3,5,Prados del Norte
 Casa,550000000,264,8,4,5,Camino Real - Joaquín Borrero Sinisterra
 Casa,870000000,160,4,4,5,Urbanización Tequendama
 Casa,495000000,192,4,2,4,Granada
-Casa,195000010,65,3,2,6,Menga
+Casa,309276018,70,3,2,6,Menga
 Casa,625000000,157,4,2,4,Vipasa
 Casa,725000000,142,4,4,5,Santa Mónica
 Casa,795000000,209,6,4,4,3 de Julio
@@ -1235,7 +1232,7 @@ Casa,480000000,200,4,4,6,Normandía
 Casa,270000000,152,4,2,5,Urbanización La Flora
 Casa,1600000000,700,5,6,5,Santa Mónica
 Casa,400000000,80,3,2,5,El Lido
-Casa,330000000,60,7,3,4,Ciudad Los Alamos
+Casa,263064747,73,7,3,4,Ciudad Los Alamos
 Casa,330000000,187,3,3,6,Arboledas
 Casa,350000000,180,5,4,4,El Cedro
 Casa,750000000,380,4,3,5,Unicentro Cali
@@ -1244,7 +1241,7 @@ Casa,900000000,156,3,4,6,Urbanización Ciudad Jardín
 Casa,690000000,120,3,4,5,Urbanización La Flora
 Casa,2500000000,400,6,7,6,Menga
 Casa,2350000000,349,4,5,4,Colseguros Andes
-Casa,320000000,63,3,2,6,Altos de Santa Isabel - La Morelia
+Casa,294672269,71,3,2,6,Altos de Santa Isabel - La Morelia
 Casa,700000000,270,5,4,4,Miraflores
 Casa,1300000000,210,3,4,5,Prados del Norte
 Casa,410000000,260,6,2,5,La Flora
@@ -1269,7 +1266,7 @@ Casa,290000000,186,4,2,4,Santa Isabel
 Casa,155000000,70,3,1,4,Granada
 Casa,450000100,129,3,4,5,Urbanización La Flora
 Casa,216000000,92,3,2,5,El Peñón
-Casa,190000000,33,4,2,4,Colseguros Andes
+Casa,275461702,70,4,2,4,Colseguros Andes
 Casa,850000000,350,4,4,5,Versalles
 Casa,650000000,800,4,3,4,Urbanización Militar
 Casa,600000000,300,4,3,5,El Peñón
@@ -1316,7 +1313,7 @@ Casa,1400000000,400,5,5,5,Cañaveralejo - Seguros Patria
 Casa,650000000,180,3,3,6,Urbanización Río Lili
 Casa,690000000,140,3,3,6,Club Campestre
 Casa,295000000,95,3,3,5,Versalles
-Casa,130000000,60,3,2,4,3 de Julio
+Casa,230000000,90,3,2,4,3 de Julio
 Casa,280000000,110,3,2,6,Menga
 Casa,2200000000,300,3,5,4,Los Cambulos
 Casa,450000000,120,6,7,5,Camino Real - Los Fundadores
@@ -1343,7 +1340,7 @@ Casa,250000000,158,3,1,6,Santa Rita
 Casa,700000000,164,4,4,4,Urbanización Militar
 Casa,315000000,145,5,2,6,Menga
 Casa,300000000,176,4,3,6,Santa Rita
-Casa,400000000,120,3,3,6,Urbanización Ciudad Jardín
+Casa,600000000,120,3,3,6,Urbanización Ciudad Jardín
 Casa,640000000,190,4,3,4,San Vicente
 Casa,570000010,353,10,4,6,Cañaveral
 Casa,430000000,140,3,3,5,Pampa Linda
@@ -1358,7 +1355,7 @@ Casa,280000000,156,7,3,4,Champagñat
 Casa,850000000,462,6,7,5,Las Quintas de Don Simón
 Casa,1550000000,380,5,5,6,Club Campestre
 Casa,195000000,103,3,1,6,Normandía
-Casa,240000000,220,4,2,6,Urbanización Ciudad Jardín
+Casa,940000000,220,4,2,6,Urbanización Ciudad Jardín
 Casa,1200000000,300,3,3,4,Caney
 Casa,195000000,103,3,1,4,Barrio Departamental
 Casa,1700000000,392,4,6,6,Club Campestre
@@ -1394,7 +1391,7 @@ Casa,1500000000,280,3,5,6,Santa Teresita
 Casa,850000000,122,3,3,5,La Flora
 Casa,1500000000,270,4,4,4,Champagñat
 Casa,1800000000,243,3,5,5,El Gran Limonar
-Casa,230000000,64,3,2,4,Urbanización Militar
+Casa,260163720,77,3,2,4,Urbanización Militar
 Casa,190000000,150,3,2,4,Urbanización Colseguros
 Casa,420000000,204,4,3,5,Prados del Limonar
 Casa,330000000,88,3,3,5,Urbanización Tequendama
@@ -1561,7 +1558,7 @@ Casa,1000000000,163,3,3,5,Camino Real - Los Fundadores
 Casa,1650000000,775,4,4,4,Chipichape
 Casa,1380000000,252,3,5,4,Urbanización Militar
 Casa,1600000000,430,4,5,5,Pampa Linda
-Casa,172000000,34,3,2,6,Altos de Santa Isabel - La Morelia
+Casa,306909732,80,3,2,6,Altos de Santa Isabel - La Morelia
 Casa,220000000,85,5,1,4,Unidad Residencial Santiago de Cali
 Casa,1000000000,290,4,5,6,Club Campestre
 Casa,180000000,72,3,1,4,Chipichape
@@ -1583,7 +1580,7 @@ Casa,750000000,120,3,2,4,San Fernando Nuevo
 Casa,500000000,140,5,3,4,Unidad Residencial El Coliseo
 Casa,800000000,220,6,4,6,Altos de Santa Isabel - La Morelia
 Casa,330000000,192,4,1,6,Normandía
-Casa,300000000,64,2,1,6,Cañaveral
+Casa,302489171,79,2,1,6,Cañaveral
 Casa,660000000,158,4,2,5,Ciudadela Pasoancho
 Casa,850000000,192,3,3,4,Barrio Departamental
 Casa,420000000,350,2,2,4,Barrio Eucarístico
@@ -1597,7 +1594,7 @@ Casa,220000000,144,5,2,6,Parcelaciones Pance
 Casa,380000000,96,4,3,5,Sector Cañaveralejo Guadalupe
 Casa,400000000,440,2,1,5,Prados del Limonar
 Casa,400000000,115,3,3,4,Ciudad 2000
-Casa,550000000,350,4,4,6,Urbanización Ciudad Jardín
+Casa,950000000,350,4,4,6,Urbanización Ciudad Jardín
 Casa,700000000,250,4,4,4,3 de Julio
 Casa,850000000,341,4,2,4,San Fernando Nuevo
 Casa,310000000,144,3,2,4,Bosques del Limonar
@@ -1611,12 +1608,10 @@ Casa,1030000000,260,3,3,4,Primero de Mayo
 Casa,290000000,98,7,2,5,Santa Anita - La Selva
 Casa,260000000,234,3,2,6,Santa Teresita
 Casa,820000000,173,3,3,4,Champagñat
-Casa,140000000,62,3,3,6,Urbanización Ciudad Jardín
 Casa,750000000,183,3,3,5,La Cascada
 Casa,240000000,80,3,2,5,Ciudadela Pasoancho
-Casa,100000000,72,2,1,6,Santa Barbara
-Casa,135000000,60,4,2,5,San Fernando Viejo
-Casa,130000000,80,3,1,5,Nueva Tequendama
+Casa,31000000,100,4,2,5,San Fernando Viejo
+Casa,290000000,90,3,2,5,Nueva Tequendama
 Casa,929000000,197,3,3,6,Parcelaciones Pance
 Casa,250000000,316,3,1,6,Altos de Santa Isabel - La Morelia
 Casa,270000000,230,4,2,4,El Cedro
@@ -1651,11 +1646,10 @@ Casa,900000000,268,4,4,6,Arboledas
 Casa,750000010,240,4,5,4,Caney
 Casa,900000010,212,4,3,5,Prados del Limonar
 Casa,2300000000,320,3,5,6,Menga
-Casa,140000000,62,3,2,6,Santa Rita
 Casa,240000000,80,3,2,4,3 de Julio
 Casa,320000000,900,3,1,6,Santa Rita
-Casa,150000000,60,3,1,4,Primero de Mayo
-Casa,120000000,110,4,2,5,Unicentro Cali
+Casa,210000000,87,3,1,4,Primero de Mayo
+Casa,320000000,110,4,3,5,Unicentro Cali
 Casa,300000000,94,3,2,5,La Hacienda
 Casa,190000000,160,4,2,6,Santa Teresita
 Casa,745000000,440,7,3,4,San Vicente
@@ -1678,12 +1672,12 @@ Casa,1800000000,290,3,4,4,Granada
 Casa,2050000000,360,4,4,5,Camino Real - Joaquín Borrero Sinisterra
 Casa,1350000000,250,4,5,6,Santa Teresita
 Casa,630000000,134,4,2,4,Urbanización Nueva Granada
-Casa,140000000,56,2,2,4,Olímpico
+Casa,252373311,78,2,2,4,Olímpico
 Casa,690000000,196,4,3,5,Unicentro Cali
-Casa,225000000,90,3,2,4,Champagñat
+Casa,325000000,90,3,2,4,Champagñat
 Casa,1800000000,336,6,6,4,Santa Isabel
 Casa,495000000,99,3,3,4,Chipichape
-Casa,100000000,100,4,1,5,El Peñón
+Casa,450000000,100,4,1,5,El Peñón
 Casa,370000000,400,7,4,4,Miraflores
 Casa,1380000000,100,3,2,6,Santa Rita
 Casa,549000000,148,3,2,4,Caney
@@ -1697,7 +1691,7 @@ Casa,610000000,141,3,3,4,La Campiña
 Casa,850000000,160,3,2,4,Chipichape
 Casa,1120000000,250,4,3,6,Arboledas
 Casa,220000000,72,6,3,4,Villa del Sol
-Casa,180000000,72,4,2,6,Santa Teresita
+Casa,380000000,72,4,2,6,Santa Teresita
 Casa,2260000000,235,4,5,4,El Refugio
 Casa,650000000,172,4,2,4,Pasoancho
 Casa,2250000000,328,3,3,4,Urbanización Colseguros
@@ -1719,14 +1713,14 @@ Casa,220000000,92,4,2,4,Granada
 Casa,460000000,107,3,3,5,El Gran Limonar
 Casa,750000000,160,4,3,5,Sector Cañaveralejo Guadalupe
 Casa,1890000000,291,4,5,4,Miraflores
-Casa,260000000,62,2,2,4,Urbanización La Merced
+Casa,265954189,77,2,2,4,Urbanización La Merced
 Casa,335000000,110,3,1,5,El Bosque
 Casa,1820000010,340,5,3,5,Pampa Linda
 Casa,550000000,210,7,5,5,Los Portales - Nuevo Rey
 Casa,290000000,147,5,1,5,Juanambú
 Casa,450000000,107,3,2,6,Urbanización Río Lili
 Casa,790000000,226,5,5,5,Sector Cañaveralejo Guadalupe
-Casa,290000000,66,3,2,5,Unicentro Cali
+Casa,290000000,92,3,2,5,Unicentro Cali
 Casa,290000000,201,4,2,5,Urbanización San Joaquin
 Casa,210000000,78,3,1,4,Ciudad Los Alamos
 Casa,450000000,200,4,2,5,Mayapan - Las Vegas
@@ -1738,11 +1732,11 @@ Casa,250000000,140,2,2,5,Urbanización San Joaquin
 Casa,350000000,81,4,2,5,Santa Anita - La Selva
 Casa,650000000,220,2,5,6,Tejares - Cristales
 Casa,700000000,155,4,3,5,Camino Real - Joaquín Borrero Sinisterra
-Casa,237000000,65,3,3,4,Unidad Residencial El Coliseo
-Casa,130000000,120,5,2,4,Caney
+Casa,276274398,76,3,3,4,Unidad Residencial El Coliseo
+Casa,450000000,120,5,2,4,Caney
 Casa,820000000,160,5,2,5,El Peñón
-Casa,130000000,70,3,1,4,Urbanización Colseguros
-Casa,175000000,63,4,1,4,3 de Julio
+Casa,230000000,80,3,1,4,Urbanización Colseguros
+Casa,275000000,83,4,2,4,3 de Julio
 Casa,1500000000,281,6,4,4,Urbanización La Merced
 Casa,290000000,200,10,3,4,La Campiña
 Casa,170000000,72,3,2,5,Urbanización San Joaquin
@@ -1770,10 +1764,10 @@ Casa,1300000000,238,4,5,4,Caney
 Casa,420000000,180,8,4,5,Centenario
 Casa,350000000,147,6,3,4,Unidad Residencial Santiago de Cali
 Casa,580000000,72,8,4,5,Cañaveralejo - Seguros Patria
-Casa,196000000,62,3,2,6,Santa Teresita
+Casa,293567137,79,3,2,6,Santa Teresita
 Casa,990000000,200,8,5,5,La Hacienda
 Casa,770000000,400,7,4,5,Mayapan - Las Vegas
-Casa,360000000,62,4,2,5,Cuarto de Legua - Guadalupe
+Casa,286471523,72,4,2,5,Cuarto de Legua - Guadalupe
 Casa,850000000,240,4,5,4,Chipichape
 Casa,290000000,224,5,3,5,Mayapan - Las Vegas
 Casa,700000000,260,4,5,4,Champagñat
@@ -1786,7 +1780,7 @@ Casa,380000000,212,11,4,4,Urbanización La Merced
 Casa,548000000,160,4,3,5,Nueva Tequendama
 Casa,275435417,77,4,2,5,Cuarto de Legua - Guadalupe
 Casa,1650000000,447,5,6,6,Club Campestre
-Casa,380000000,67,4,2,4,Villa del Sol
+Casa,272515873,74,4,2,4,Villa del Sol
 Casa,720000000,218,4,2,5,Camino Real - Los Fundadores
 Casa,550000000,109,3,2,4,El Refugio
 Casa,2200000000,500,6,6,4,La Campiña
@@ -1796,7 +1790,7 @@ Casa,720000000,162,4,3,5,Senderos de la Flora
 Casa,370000000,505,3,2,4,Villa del Sol
 Casa,380000000,73,3,3,4,Lili
 Casa,260000000,198,5,3,6,Santa Barbara
-Casa,195000000,68,3,1,5,Ciudad Capri
+Casa,281529338,73,3,1,5,Ciudad Capri
 Casa,430000000,150,4,4,4,Miraflores
 Casa,2500000000,480,10,5,5,Nueva Tequendama
 Casa,375000000,216,6,3,5,El Gran Limonar
@@ -1829,7 +1823,7 @@ Casa,430000000,110,3,3,4,3 de Julio
 Casa,395000000,85,3,2,6,Santa Rita
 Casa,1089000000,142,3,3,5,El Bosque
 Casa,180000000,79,3,2,4,San Vicente
-Casa,335207000,68,4,2,5,Centenario
+Casa,288775500,71,4,2,5,Centenario
 Casa,450000000,200,3,2,4,Granada
 Casa,1050000000,220,3,4,5,Cuarto de Legua - Guadalupe
 Casa,450000000,120,3,2,4,Villa del Sol
@@ -1851,7 +1845,7 @@ Casa,480000000,180,11,2,5,Mayapan - Las Vegas
 Casa,580000000,150,4,2,5,Cuarto de Legua - Guadalupe
 Casa,640000000,154,3,3,5,Sector Cañaveralejo Guadalupe
 Casa,370000000,83,4,3,5,Prados del Norte
-Casa,260000000,144,5,2,5,San Fernando Viejo
+Casa,460000000,144,5,2,5,San Fernando Viejo
 Casa,880000000,150,3,3,4,Unidad Residencial Santiago de Cali
 Casa,315000000,120,3,2,5,El Gran Limonar - Cataya
 Casa,1960000000,315,3,4,5,Ciudad Capri
@@ -1861,7 +1855,7 @@ Casa,740000000,121,3,4,4,Primero de Mayo
 Casa,349000000,150,2,1,5,Urbanización La Flora
 Casa,700000000,428,4,3,5,Ciudadela Pasoancho
 Casa,1300000000,380,5,3,4,Miraflores
-Casa,365000000,120,3,2,6,Urbanización Ciudad Jardín
+Casa,665000000,120,3,2,6,Urbanización Ciudad Jardín
 Casa,1800000000,652,3,3,6,Menga
 Casa,2000000000,460,3,4,4,Santa Isabel
 Casa,480000000,130,2,3,5,Camino Real - Los Fundadores
@@ -1883,9 +1877,9 @@ Casa,330000000,100,6,2,5,La Cascada
 Casa,390000000,200,4,2,4,Unidad Residencial El Coliseo
 Casa,290000000,128,4,2,5,La Hacienda
 Casa,410000000,214,6,2,4,San Fernando Nuevo
-Casa,153642667,52,2,1,4,Champagñat
+Casa,480000000,152,2,1,4,Champagñat
 Casa,430000000,150,4,1,5,Sector Cañaveralejo Guadalupe
-Casa,187096698,62,2,1,4,Pasoancho
+Casa,251015403,75,2,1,4,Pasoancho
 Casa,690000000,125,3,4,5,Sector Cañaveralejo Guadalupe
 Casa,540000000,198,6,3,4,Chipichape
 Casa,310000000,100,5,4,5,El Lido
@@ -1898,14 +1892,14 @@ Casa,380000000,120,4,2,5,El Gran Limonar - Cataya
 Casa,720000000,157,5,5,6,Menga
 Casa,900000000,350,6,5,4,Granada
 Casa,1520000000,255,3,3,5,El Ingenio
-Casa,500000000,500,5,3,6,Urbanización Ciudad Jardín
+Casa,1100000000,500,5,3,6,Urbanización Ciudad Jardín
 Casa,1100000000,210,3,3,4,Primero de Mayo
 Casa,370000000,256,1,1,4,San Fernando Nuevo
 Casa,1250000000,253,5,5,5,El Gran Limonar
-Casa,320000000,30,4,2,4,Granada
+Casa,272519184,72,4,2,4,Granada
 Casa,1900000000,272,4,7,4,Los Cambulos
 Casa,430000000,120,4,2,5,Urbanización La Flora
-Casa,117600000,40,2,1,6,Parcelaciones Pance
+Casa,220000000,150,2,1,2,El Rodeo
 Casa,350000000,75,5,3,6,Santa Teresita
 Casa,370000000,90,3,2,5,Urbanización San Joaquin
 Casa,400000000,93,3,3,5,Nueva Tequendama
@@ -1926,7 +1920,7 @@ Casa,420000000,150,5,3,5,San Fernando Viejo
 Casa,250000000,90,2,2,4,San Fernando Nuevo
 Casa,260000000,90,2,1,5,Juanambú
 Casa,1300000000,280,3,3,5,Versalles
-Casa,270000000,98,4,2,6,Arboledas
+Casa,370000000,98,4,2,6,Arboledas
 Casa,640000000,106,3,2,4,San Vicente
 Casa,350000000,162,3,1,4,Chipichape
 Casa,330000000,196,3,2,4,Barrio Departamental
@@ -1947,29 +1941,28 @@ Casa,565000000,100,3,3,5,Cuarto de Legua - Guadalupe
 Casa,1200000000,168,3,3,6,Ciudad Campestre
 Casa,560000000,100,3,3,5,Urbanización La Flora
 Casa,285000000,144,4,1,4,San Fernando Nuevo
-Casa,360000000,61,3,2,5,Las Quintas de Don Simón
+Casa,289274998,73,3,2,5,Las Quintas de Don Simón
 Casa,385000000,100,4,2,4,Santa Isabel
 Casa,455000000,142,3,1,4,Urbanización Colseguros
 Casa,300000000,170,3,2,4,Urbanización Militar
 Casa,650000000,137,4,3,5,Nueva Tequendama
 Casa,240000000,111,3,3,5,El Peñón
-Casa,165000000,60,2,2,4,Urbanización Nueva Granada
+Casa,265543007,75,2,2,4,Urbanización Nueva Granada
 Casa,460000000,113,4,3,6,Tejares - Cristales
 Casa,180000000,300,2,1,5,Santa Mónica
 Casa,280000000,220,7,2,4,3 de Julio
 Casa,300000000,650,3,1,4,San Vicente
 Casa,145000000,80,3,1,5,Santa Anita - La Selva
-Casa,215000000,68,3,3,4,Champagñat
+Casa,325000000,121,4,3,4,Champagñat
 Casa,440000000,223,4,5,4,Santa Isabel
-Casa,280000000,266,5,2,4,Champagñat
+Casa,580000000,266,5,2,4,Champagñat
 Casa,580000000,90,3,3,4,El Refugio
-Casa,145000000,84,3,1,4,Champagñat
-Casa,180000000,50,2,1,6,Menga
+Casa,285000000,84,3,1,4,Champagñat
+Casa,292806280,70,2,1,6,Menga
 Casa,440000000,95,3,2,5,Prados del Norte
 Casa,450000000,660,8,4,6,Santa Teresita
 Casa,820000000,130,3,3,4,Barrio Departamental
 Casa,190000000,120,4,2,5,Urbanización San Joaquin
-Casa,235000000,100,2,1,6,Urbanización Ciudad Jardín
 Casa,1300000000,250,5,4,4,Unidad Residencial Santiago de Cali
 Casa,240000000,162,2,1,5,Sector Cañaveralejo Guadalupe
 Casa,200000000,167,4,1,6,Altos de Santa Isabel - La Morelia
@@ -1987,10 +1980,10 @@ Casa,270000000,110,5,2,4,Bosques del Limonar
 Casa,550000000,116,5,3,6,Tejares - Cristales
 Casa,510000000,140,4,2,4,Los Cambulos
 Casa,270000000,100,3,3,5,El Bosque
-Casa,130000000,43,3,1,4,Ciudad Los Alamos
+Casa,230000000,93,3,1,4,Ciudad Los Alamos
 Casa,560000000,133,3,3,4,El Refugio
 Casa,330000000,106,3,1,5,La Cascada
-Casa,185000000,48,2,2,4,La Campiña
+Casa,215000000,89,2,2,4,La Campiña
 Casa,580000000,290,3,3,4,3 de Julio
 Casa,200000000,120,3,2,5,Nueva Tequendama
 Casa,1300000000,280,3,2,6,Club Campestre
@@ -2002,7 +1995,7 @@ Casa,200000000,90,2,1,4,Primero de Mayo
 Casa,390000000,330,8,5,6,Tejares - Cristales
 Casa,300000000,120,3,2,5,El Ingenio
 Casa,450000000,220,3,1,5,El Peñón
-Casa,200000000,100,3,1,6,Santa Teresita
+Casa,300000000,100,3,1,6,Santa Teresita
 Casa,290000000,120,5,2,5,La Hacienda
 Casa,280000000,120,4,2,4,Lili
 Casa,820000000,180,6,4,4,Unidad Residencial El Coliseo
@@ -2010,10 +2003,10 @@ Casa,240000000,100,2,1,5,Sector Cañaveralejo Guadalupe
 Casa,400000000,120,4,2,6,Altos de Santa Isabel - La Morelia
 Casa,700000000,72,3,4,4,Barrio Eucarístico
 Casa,370000000,100,3,2,4,Santa Isabel
-Casa,280000000,64,3,2,5,Camino Real - Los Fundadores
+Casa,283343610,72,3,2,5,Camino Real - Los Fundadores
 Casa,965625000,113,3,3,4,Champagñat
 Casa,1550000000,220,4,5,4,Urbanización Colseguros
-Casa,150000000,50,2,1,4,Chipichape
+Casa,262343199,78,2,1,4,Chipichape
 Casa,1300000000,500,5,7,5,Camino Real - Joaquín Borrero Sinisterra
 Casa,285000000,90,3,3,6,Club Campestre
 Casa,380000000,130,2,1,6,Tejares - Cristales
@@ -2022,13 +2015,13 @@ Casa,250000000,280,8,5,1,Los Naranjos 1
 Casa,248000000,105,6,2,1,El poblado 2
 Casa,193000000,120,4,3,1,Ciudadela Del Rio
 Casa,180000000,270,8,4,1,Los Naranjos 1
-Casa,107000000,78,3,1,1,Puertas Del Sol
+Casa,157000000,78,3,1,1,Puertas Del Sol
 Casa,200000000,320,9,2,1,12 de Octubre
-Casa,420000000,317,9,3,1,Alfonso Bonilla Aragón
-Casa,107000000,78,3,1,1,Puertas Del Sol
+Casa,320000000,317,9,3,1,Alfonso Bonilla Aragón
+Casa,190000000,102,3,1,1,Mojica
 Casa,187000000,95,4,2,1,Charco Azul
 Casa,220000000,145,6,3,1,Sucre
-Casa,250000000,52,3,2,3,Ciudad Cordoba
+Casa,224968562,70,3,2,3,Ciudad Cordoba
 Casa,250000000,140,4,2,3,San Carlos
 Casa,450000000,159,2,4,3,Nueva Floresta
 Casa,249000000,145,6,3,2,Floralia
@@ -2036,9 +2029,9 @@ Casa,230000000,236,3,3,2,Talanga
 Casa,450000000,230,7,3,3,Nueva Base
 Casa,430000000,300,12,4,3,Nueva Base
 Casa,365000000,180,6,3,3,La Base
-Casa,105000000,58,3,1,2,Villa Del Lago
-Casa,145000000,100,4,2,2,Valle Grande
-Casa,280000000,83,7,2,2,El Rodeo
+Casa,193621375,80,3,1,2,Villa Del Lago
+Casa,210000000,100,4,2,2,Valle Grande
+Casa,200000000,83,7,2,2,El Rodeo
 Casa,249000000,120,4,2,3,Belisario Caicedo
 Casa,339000000,144,3,3,3,Torres de Comfandi
 Casa,530000000,510,9,4,3,Junín
@@ -2057,9 +2050,9 @@ Casa,215000000,93,4,2,3,Junín
 Casa,450000000,225,7,4,3,El Troncal
 Casa,345000000,144,3,3,3,Torres de Comfandi
 Casa,599000000,217,11,5,3,Santa Elena
-Casa,370000000,61,3,3,3,El Prado
-Casa,125000000,76,3,1,3,Villa del Lago
-Casa,300000000,62,5,3,3,Ciudad Cordoba
+Casa,218566136,77,3,3,3,El Prado
+Casa,195000000,76,3,1,3,Villa del Lago
+Casa,241093568,78,5,3,3,Ciudad Cordoba
 Casa,275000000,80,4,2,3,Junín
 Casa,545000000,429,11,6,3,Atanasio Girardot
 Casa,530000000,180,7,5,3,Ciudadela Comfandi
@@ -2077,7 +2070,7 @@ Casa,499000000,265,5,4,3,Junín
 Casa,560000000,294,11,5,3,Meléndez
 Casa,173000000,135,3,2,3,Calipso
 Casa,490000000,314,7,4,3,Las Delicias
-Casa,230000000,55,5,3,3,Nueva Floresta
+Casa,249499743,76,5,3,3,Nueva Floresta
 Casa,650000000,550,11,5,3,Aranjuez
 Casa,310000000,200,4,3,3,Junín
 Casa,360000000,120,6,2,3,Atanasio Girardot
@@ -2104,7 +2097,7 @@ Casa,435000000,190,5,3,3,Bello Horizonte
 Casa,540000000,196,8,6,3,Meléndez
 Casa,330000000,120,3,3,3,Los Guaduales
 Casa,450000000,270,9,6,3,La Base
-Casa,900000000,370,6,10,3,Santa Elena
+Casa,640000000,370,6,10,3,Santa Elena
 Casa,380000000,268,6,4,3,Cristóbal Colón
 Casa,580000000,380,12,6,3,Santa Fe
 Casa,340000000,160,6,4,3,Ciudadela Comfandi
@@ -2121,7 +2114,7 @@ Casa,320000000,210,5,3,3,EL Trébol
 Casa,798000000,320,7,3,3,Alameda
 Casa,500000000,148,5,2,3,Panamericano
 Casa,690000000,480,5,4,3,Cristóbal Colón
-Casa,220000000,66,5,2,3,Popular
+Casa,207980143,78,5,2,3,Popular
 Casa,450000000,170,5,2,3,Bretaña
 Casa,400000000,180,5,2,3,Junín
 Casa,450000000,313,9,3,3,La Fortaleza
@@ -2155,4 +2148,4 @@ Casa,715000000,150,12,8,3,Villa Colombia
 Casa,185000000,92,3,2,3,El Guabal
 Casa,459000000,310,7,4,3,Las Acacias
 Casa,580000000,200,7,5,3,Santa Elena
-Casa,195000000,68,3,2,3,Brisas de los Alamos
+Casa,206820922,80,3,2,3,Brisas de los Alamos
