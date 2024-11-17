@@ -3,10 +3,17 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import train_test_split
 import matplotlib.pyplot as plt
 
+# Cargar los datos
 
-# Reemplaza 'ruta_al_dataset.csv' con la ruta real al archivo de datos
-dfApartment = pd.read_csv('data/cleaned_apartments_cali.csv')
-dfHouse = pd.read_csv('data/cleaned_houses_cali.csv')
+#Con menos datos (alrededor de 500)
+# dfApartment = pd.read_csv('data/cleaned_apartments_cali.csv')
+# dfHouse = pd.read_csv('data/cleaned_houses_cali.csv')
+
+#Con mas datos (alrededor de 3000)
+dfApartment = pd.read_csv('data/cleaned_apartments_cali1.csv')
+dfHouse = pd.read_csv('data/cleaned_houses_cali1.csv')
+
+# Unir datos
 dfMain = pd.concat([dfApartment, dfHouse], ignore_index=True)
 
 #'Precio', 'Área total', 'Habitaciones' y 'Baños' a numérico
