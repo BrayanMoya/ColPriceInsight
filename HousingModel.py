@@ -45,18 +45,19 @@ def predecirPrecio(area, habitaciones, baños, estrato, ubicacion, tipo):
     # Predicción
     prediccion_log = model.predict(datos)
     prediccion = np.expm1(prediccion_log)  # Revertir el logaritmo para la escala original
+
     return redondearPrecio(prediccion[0][0])  # Redondear el precio final
 
 if __name__ == "__main__":
     print("=== Predicción de Precio de Vivienda ===")
     try:
         # Solicitar atributos al usuario
+        tipo = input("Ingrese el tipo de inmueble ('Casa' o 'Apartamento'): ")
         area = float(input("Ingrese el área de la vivienda (En m²): "))
         habitaciones = int(input("Ingrese el número de habitaciones: "))
         baños = int(input("Ingrese el número de baños: "))
         estrato = int(input("Ingrese el estrato social (1-6): "))
         ubicacion = input("Ingrese la ubicación (ejemplo: 'Ciudad 2000'): ")
-        tipo = input("Ingrese el tipo de inmueble ('Casa' o 'Apartamento'): ")
 
         # Realizar predicción
         precio = predecirPrecio(area, habitaciones, baños, estrato, ubicacion, tipo)
