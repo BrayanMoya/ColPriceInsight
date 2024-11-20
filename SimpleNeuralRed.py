@@ -15,8 +15,12 @@ from keras.api.layers import Dense
 # dfHouse = pd.read_csv('data/cleaned_houses_cali.csv')
 
 #Con mas datos (alrededor de 3000)
-dfApartment = pd.read_csv('data/cleaned_apartments_cali1.csv')
-dfHouse = pd.read_csv('data/cleaned_houses_cali1.csv')
+# dfApartment = pd.read_csv('data/cleaned_apartments_cali1.csv')
+# dfHouse = pd.read_csv('data/cleaned_houses_cali1.csv')
+
+#Con mas datos (alrededor de 4000 sin ubicación)
+dfApartment = pd.read_csv('data/cleaned_apartments_cali2.csv')
+dfHouse = pd.read_csv('data/cleaned_houses_cali2.csv')
 dfMain = pd.concat([dfApartment, dfHouse], ignore_index=True)
 
 # Convertir columnas a numérico
@@ -28,8 +32,8 @@ dfMain['Baños'] = pd.to_numeric(dfMain['Baños'], errors='coerce')
 # Convertir 'Estrato' a categórico
 dfMain['Estrato'] = dfMain['Estrato'].astype('category')
 
-# One-Hot Encoding (Categorizar) para 'Ubicación' y 'Tipo'
-dfMain = pd.get_dummies(dfMain, columns=['Ubicación', 'Tipo'], drop_first=False)
+# One-Hot Encoding (Categorizar) para  y 'Tipo'
+dfMain = pd.get_dummies(dfMain, columns=['Tipo'], drop_first=False)
 
 # Escalar 'Área'
 scaler = StandardScaler()
@@ -94,12 +98,12 @@ for pred, intervalo in zip(y_pred.flatten(), intervaloConfianza):
     print(f"Predicción: {pred:.2f}, Intervalo: {intervalo[0]:.2f} - {intervalo[1]:.2f}")
 
 
-# plt.plot(history.history['mae'], label='MAE Entrenamiento')
-# plt.plot(history.history['val_mae'], label='MAE Validación')
-# plt.xlabel('Épocas')
-# plt.ylabel('MAE')
-# plt.legend()
-# plt.show()
+plt.plot(history.history['mae'], label='MAE Entrenamiento')
+plt.plot(history.history['val_mae'], label='MAE Validación')
+plt.xlabel('Épocas')
+plt.ylabel('MAE')
+plt.legend()
+plt.show()
 
 
 # Guardar el modelo en formato HDF5
@@ -107,4 +111,5 @@ for pred, intervalo in zip(y_pred.flatten(), intervaloConfianza):
 
 #Con mas datos (alrededor de 4300)
 # model.save('modelo_precio_vivienda2.h5', include_optimizer=True) # Incluye optimizador para seguirlo entrenando
-model.save('modelo_precio_vivienda2.h5')
+# model.save('modelo_precio_vivienda2.h5') # Con ubicación
+model.save('modelo_precio_vivienda3.h5') # Sin ubicación

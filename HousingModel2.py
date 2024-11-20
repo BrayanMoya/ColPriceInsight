@@ -5,7 +5,7 @@ from keras.api.models import load_model
 from keras.api.losses import MeanSquaredError
 
 # Cargar el modelo guardado
-model = load_model('modelo_precio_vivienda2.h5', compile=False)
+model = load_model('modelo_precio_vivienda3.h5', compile=False)
 model.compile(optimizer='adam', loss=MeanSquaredError())
 print("Modelo cargado correctamente.")
 
@@ -19,8 +19,13 @@ def redondearPrecio(precio):
     return int(np.ceil(precio / potencia) * potencia)
 
 def obtenerValoresPredeterminados():
-    dfApartment = pd.read_csv('data/cleaned_apartments_cali1.csv')
-    dfHouse = pd.read_csv('data/cleaned_houses_cali1.csv')
+    # Datos con ubicación
+    # dfApartment = pd.read_csv('data/cleaned_apartments_cali1.csv')
+    # dfHouse = pd.read_csv('data/cleaned_houses_cali1.csv')
+
+    # Datos sin ubicación
+    dfApartment = pd.read_csv('data/cleaned_apartments_cali2.csv')
+    dfHouse = pd.read_csv('data/cleaned_houses_cali2.csv')
     dfMain = pd.concat([dfApartment, dfHouse], ignore_index=True)
 
     valoresPredeterminados = {
@@ -28,19 +33,17 @@ def obtenerValoresPredeterminados():
         'Habitaciones': dfMain['Habitaciones'].mode()[0],
         'Baños': dfMain['Baños'].mode()[0],
         'Estrato': dfMain['Estrato'].mode()[0],
-        'Ubicación': dfMain['Ubicación'].mode()[0],
         'Tipo': dfMain['Tipo'].mode()[0]
     }
     return valoresPredeterminados
 
-def predecirPrecioOpcional(area=None, habitaciones=None, baños=None, estrato=None, ubicacion=None, tipo=None):
+def predecirPrecioOpcional(area=None, habitaciones=None, baños=None, estrato=None, tipo=None):
     valoresPredeterminados = obtenerValoresPredeterminados()
 
     area = area if area is not None else valoresPredeterminados['Área']
     habitaciones = habitaciones if habitaciones is not None else valoresPredeterminados['Habitaciones']
     baños = baños if baños is not None else valoresPredeterminados['Baños']
     estrato = estrato if estrato is not None else valoresPredeterminados['Estrato']
-    ubicacion = ubicacion if ubicacion is not None else valoresPredeterminados['Ubicación']
     tipo = tipo if tipo is not None else valoresPredeterminados['Tipo']
 
     datos = pd.DataFrame({
@@ -48,7 +51,6 @@ def predecirPrecioOpcional(area=None, habitaciones=None, baños=None, estrato=No
         'Habitaciones': [habitaciones],
         'Baños': [baños],
         'Estrato': [estrato],
-        'Ubicación': [ubicacion],
         'Tipo': [tipo]
     })
 
@@ -56,7 +58,7 @@ def predecirPrecioOpcional(area=None, habitaciones=None, baños=None, estrato=No
     datos[['Área']] = scaler.transform(datos[['Área']])
 
     # Codificar variables categóricas con One-Hot Encoding
-    datos = pd.get_dummies(datos, columns=['Ubicación', 'Tipo'], drop_first=False)
+    datos = pd.get_dummies(datos, columns=['Tipo'], drop_first=False)
 
     # Cargar las columnas de X
     with open('columnas_X.json', 'r', encoding='utf-8') as f:
@@ -94,10 +96,7 @@ if __name__ == "__main__":
         estrato = input("Ingrese el estrato social (1-6) [Opcional]: ")
         estrato = int(estrato) if estrato else None
 
-        ubicacion = input("Ingrese la ubicación (ejemplo: 'Ciudad 2000') [Opcional]: ")
-        ubicacion = ubicacion if ubicacion else None
-
-        precio = predecirPrecioOpcional(area, habitaciones, baños, estrato, ubicacion, tipo)
+        precio = predecirPrecioOpcional(area, habitaciones, baños, estrato, tipo)
         # print(f"El precio estimado de la vivienda es (original): ${precio['original']:,}")
         print(f"El precio estimado de la vivienda es: ${precio['redondeado']:,}")
     except Exception as e:
