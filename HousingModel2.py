@@ -81,8 +81,17 @@ def predecirPrecioOpcional(area=None, habitaciones=None, baños=None, estrato=No
 if __name__ == "__main__":
     print("=== Predicción de Precio de Vivienda con Atributos Opcionales ===\nIngrese como mínimo 3 atributos (El tipo de inmueble es obligatorio)")
     try:
-        tipo = input("Ingrese el tipo de inmueble ('Casa' o 'Apartamento'): ")
-        tipo = tipo if tipo else None
+        # Solicitar el tipo de inmueble como número
+        tipo = None
+        while tipo is None:
+            print("Seleccione el tipo de inmueble:\n1. Casa\n2. Apartamento")
+            tipoInmueble = input("Ingrese el número correspondiente al tipo de inmueble: ")
+            if tipoInmueble == "1":
+                tipo = "Casa"
+            elif tipoInmueble == "2":
+                tipo = "Apartamento"
+            else:
+                print("Entrada no válida. Por favor, ingrese '1' para Casa o '2' para Apartamento.\n")
 
         area = input("Ingrese el área de la vivienda (m²) [Opcional]: ")
         area = float(area) if area else None
@@ -96,8 +105,12 @@ if __name__ == "__main__":
         estrato = input("Ingrese el estrato social (1-6) [Opcional]: ")
         estrato = int(estrato) if estrato else None
 
+        # Llamar a la función de predicción con los valores proporcionados
         precio = predecirPrecioOpcional(area, habitaciones, baños, estrato, tipo)
+
         # print(f"El precio estimado de la vivienda es (original): ${precio['original']:,}")
         print(f"El precio estimado de la vivienda es: ${precio['redondeado']:,}")
+    except ValueError as ve:
+        print(f"Entrada inválida: {ve}")
     except Exception as e:
         print(f"Error en la predicción: {e}")
