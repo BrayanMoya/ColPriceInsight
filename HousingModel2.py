@@ -1,8 +1,10 @@
 import joblib, json
+import tkinter as tk
 import numpy as np
 import pandas as pd
 from keras.api.models import load_model
 from keras.api.losses import MeanSquaredError
+from tkinter import ttk, messagebox
 
 # Cargar el modelo guardado
 model = load_model('modelo_precio_vivienda3.h5', compile=False)
@@ -78,39 +80,58 @@ def predecirPrecioOpcional(area=None, habitaciones=None, baños=None, estrato=No
 
     return precios  # Redondear el precio final
 
-if __name__ == "__main__":
-    print("=== Predicción de Precio de Vivienda con Atributos Opcionales ===\nIngrese como mínimo 3 atributos (El tipo de inmueble es obligatorio)")
+def realizarPrediccion():
     try:
-        # Solicitar el tipo de inmueble como número
-        tipo = None
-        while tipo is None:
-            print("Seleccione el tipo de inmueble:\n1. Casa\n2. Apartamento")
-            tipoInmueble = input("Ingrese el número correspondiente al tipo de inmueble: ")
-            if tipoInmueble == "1":
-                tipo = "Casa"
-            elif tipoInmueble == "2":
-                tipo = "Apartamento"
-            else:
-                print("Entrada no válida. Por favor, ingrese '1' para Casa o '2' para Apartamento.\n")
+        # Recuperar los valores
+        area = float(areaVar.get()) if areaVar.get() else None
+        habitaciones = int(habitacionesVar.get()) if habitacionesVar.get() else None
+        baños = int(bañosVar.get()) if bañosVar.get() else None
+        estrato = int(estratoVar.get()) if estratoVar.get() else None
+        tipo = tipoVar.get()
 
-        area = input("Ingrese el área de la vivienda (m²) [Opcional]: ")
-        area = float(area) if area else None
-
-        habitaciones = input("Ingrese el número de habitaciones [Opcional]: ")
-        habitaciones = int(habitaciones) if habitaciones else None
-
-        baños = input("Ingrese el número de baños [Opcional]: ")
-        baños = int(baños) if baños else None
-
-        estrato = input("Ingrese el estrato social (1-6) [Opcional]: ")
-        estrato = int(estrato) if estrato else None
-
-        # Llamar a la función de predicción con los valores proporcionados
+        # Realizar la predicción
         precio = predecirPrecioOpcional(area, habitaciones, baños, estrato, tipo)
-
-        # print(f"El precio estimado de la vivienda es (original): ${precio['original']:,}")
-        print(f"El precio estimado de la vivienda es: ${precio['redondeado']:,}")
+        resultadoLabel.config(text=f"Precio estimado: ${precio['redondeado']:,}")
     except ValueError as ve:
-        print(f"Entrada inválida: {ve}")
+        messagebox.showerror("Entrada inválida", f"Entrada no válida: {ve}")
     except Exception as e:
-        print(f"Error en la predicción: {e}")
+        messagebox.showerror("Error", f"Error en la predicción: {e}")
+
+# Configuración de la ventana principal
+ventana = tk.Tk()
+ventana.title("Predicción de Precios de Viviendas en Cali")
+ventana.geometry("400x450")
+ventana.resizable(True, True)
+
+# Configuración de campos
+areaVar = tk.StringVar()
+habitacionesVar = tk.StringVar()
+bañosVar = tk.StringVar()
+estratoVar = tk.StringVar()
+tipoVar = tk.StringVar()
+
+# Widgets
+ttk.Label(ventana, text="Predicción de Precios de Viviendas", font=("Helvetica", 16)).pack(pady=10)
+
+ttk.Label(ventana, text="Tipo de Inmueble:").pack(anchor="w", padx=20)
+ttk.Combobox(ventana, textvariable=tipoVar, values=["Casa", "Apartamento"], state="readonly").pack(fill="x", padx=20, pady=5)
+
+ttk.Label(ventana, text="Área (m²) [Opcional]:").pack(anchor="w", padx=20)
+ttk.Entry(ventana, textvariable=areaVar).pack(fill="x", padx=20, pady=5)
+
+ttk.Label(ventana, text="Número de Habitaciones [Opcional]:").pack(anchor="w", padx=20)
+ttk.Entry(ventana, textvariable=habitacionesVar).pack(fill="x", padx=20, pady=5)
+
+ttk.Label(ventana, text="Número de Baños [Opcional]:").pack(anchor="w", padx=20)
+ttk.Entry(ventana, textvariable=bañosVar).pack(fill="x", padx=20, pady=5)
+
+ttk.Label(ventana, text="Estrato Social (1-6) [Opcional]:").pack(anchor="w", padx=20)
+ttk.Entry(ventana, textvariable=estratoVar).pack(fill="x", padx=20, pady=5)
+
+ttk.Button(ventana, text="Predecir Precio", command=realizarPrediccion).pack(pady=20)
+
+resultadoLabel = ttk.Label(ventana, text="", font=("Helvetica", 12))
+resultadoLabel.pack()
+
+# Iniciar la aplicación
+ventana.mainloop()
